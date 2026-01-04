@@ -1,0 +1,316 @@
+numero;date_str;client_principal;ref_client;montant_ht;nature_travaux;fichier
+1;02/01/2025;Leroy Merlin La Valette;MR ROMAN;540.0;Pose d’un Velux UK04 GGU intégra électrique plus volet roulant SML UK04;1 PDF LM T MR ROMAN  .pdf
+10;14/01/2025;Particulier;;460.0;Pose d’un Velux MK04 GGL confort 78/98 plus store DKL;10 PDF MME PAIREL   .pdf
+100;29/04/2025;Leroy Merlin Aubagne;SCI LOMBARDO;550.0;Pose d’un Velux MK04 GGU  confort plus volet roulant SSL MK04 sur toiture  en everithe plus tuile dessus dessous;100 PDF LM AUB MR ALLEQ  .pdf
+101;29/04/2025;Particulier;;590.0;Pose d’un Velux MK04 GGU confort avec gouttière plomb  SASU MAÇONNERIE CONCEPT;101 PDF MR BAUDOT  .pdf
+102;30/04/2025;Leroy Merlin Cabriès;MR MINNAERT;;Pose de 3 Velux MK04 GGU tout confort intégra solaire jumelé avec raccord  trio plus store DSL solaire ou volet roulant solaire SSL MK04 hauteur sous;102 PDF LM CAB MR MINNAERT .pdf
+103;01/05/2025;Particulier;;;Pose de 2 Velux UK04 GGU confort plus store DKL et MHL et un Velux CK02  GGU C plus store MHL;103 PDF MME FARCI .pdf
+104;02/05/2025;Leroy Merlin La Valette;MR GAGNO;540.0;Pose d’un Velux SK06 GGL confort plus store DKL avec découpe et solin au  faitage;104 PDF LM T MR GAGNO .pdf
+105;28/04/2025;Leroy Merlin Toulon;MR CHAN;;Pose de 2 Velux MK04 GGU tout confort intégra solaire plus volet roulant  solaire MK04 SSL hauteur sous plafond plus de 3,2 M;105 PDF LM GR LIT MME CHAN   .pdf
+106;05/05/2025;Particulier;;744.0;Pose d’un Velux MK04 GPU confort , un Velux MK04 GGU confort plus volet  roulant solaire Velux SSL MK04;106 PDF  MME CONSTANCE DE LA ROQUE .pdf
+107;06/05/2025;Leroy Merlin Toulon;MR CHAVAUX;;Pose d’une verrière triple GGLS FFKF08 180/140 plus 3 store MSLS FK08;107 PDF LM LA VAL MR CHAVAUX .pdf
+108;07/05/2025;Leroy Merlin Aubagne;MR ROURE;910.0;Pose de 2 Velux MK06 GGL tout confort plus store DKL bleu et raccord EW  MK06;108 PDF LM AUB MR ROURE  .pdf
+109;07/05/2025;Particulier;;;Pose de 2 volets roulants solaires CK02 plus KSX100K solaire;109 PDF MR FRAISSE  .pdf
+11;15/01/2025;Leroy Merlin Cabriès;MR DESOUS;;Pose de 3 Velux MK04 GGU confort plus raccord EW MK04 sur toiture en  everithe plus tuiles dessus;11 PDF LM CAB MR DESSOUS .pdf
+110;08/05/2025;Leroy Merlin Cabriès;MME JOURDAN;510.0;Pose d’un Velux CK01 GGL confort plus raccord EW;110 PDF LM CAB MME JOURDAN .pdf
+111;09/04/2025;Leroy Merlin Martigues;/ MR SALIOU;660.0;Pose d’un Velux MK06 GGU confort avec raccord EW et store DKL sur toiture  en flexotuile plus tuiles dessous dessus;111 PDF LM MART MR SALIOU .pdf
+112;13/05/2025;Leroy Merlin Cabriès;SCI LA PELLEGRINE;;Pose de 2 Velux MK04 GGU tout confort solaire intégra avec volet roulant  solaire SSL MK04 hauteur sous plafond 3,5 m avec un avec solin plomb au;112 PDF SCI LA PELLEGRINE .pdf
+113;16/05/2025;Leroy Merlin La Valette;MR NAVARRO;;Pose de 2 Velux UK04 GGU tout confort intégra solaire plus volet roulant  solaire SSL UK04;113 PDF LM T MR NAVARRO  .pdf
+114;15/05/2025;Particulier;;;Pose de 2 Velux MK04 tout confort GGU intégra solaire avec détecteur de  pluie  plus volet roulant solaire SSL MK04;114 PDF MR DEBUT .pdf
+115;15/05/2025;Particulier;;;Pose de 2 Velux MK06 78/118 GGU confort plus store DKL occultant  SASU MAÇONNERIE CONCEPT;115 PDF MR ROS .pdf
+116;16/05/2025;Leroy Merlin Martigues;/ MR LEFEVRE;630.0;Pose d’un Velux SK06 GGL tout confort plus raccord EDW et store occultant  DKL;116 PDF LM MART MR LEFEVRE .pdf
+117;19/05/2025;Particulier;;;Pose d’un Velux UK04 GGU confort intégra plus volet roulant SML UK04 SASU MAÇONNERIE CONCEPT;117 PDF MR COLOMB  .pdf
+118;17/05/2025;Distrilap;;132.0;Livraison chantier Mr St Michel;118 PDF DISTRILAP MR ST MICHEL  .pdf
+119;22/04/2025;Leroy Merlin Toulon;MR PATUREL;100.0;Pose d’un volet roulant solaire UK04 SSL;119 PDF LM GR LIT MR PATUREL  .pdf
+12;16/01/2024;Leroy Merlin Cabriès;MR BOUYAHIA;450.0;Pose d’un Velux MK04 GGU confort plus store DSL MK04 avec reprise de  toiture et découpe habillage int BA13;12 PDF LM CAB MR BOUYAHIA .pdf
+120;17/05/2025;Distrilap;;132.0;Livraison chantier Mme Santangelo;120 PDF DISTRILAP MME SANTANGELO.pdf
+121;21/05/2025;Leroy Merlin La Valette;MR SPORTOUCH;990.0;Pose d’un Velux MK04 GPL tout confort plus volet roulant SML MK04 et  transfo KUX et un Velux UK04 GGL tout confort avec store DKL UK04 et solin;121 PDF LM T MR SPORTOUCH  .pdf
+122;22/05/2025;Leroy Merlin Toulon;MR LEVY;910.0;Pose de 2 Velux SK06 GGL confort plus raccord EW;122 PDF LM LA VAL MR LEVY .pdf
+123;23/05/2025;Particulier;;650.0;Pose d’un Velux MK04 GPL  confort ouverture projection plus rotation plus  store DKL;123 PDF MR DANIEL.pdf
+124;23/05/2025;Particulier;;350.0;Reprise de parclose d’étanchéité sur Velux SK06  SASU MAÇONNERIE CONCEPT;124 PDF MR PATEFFOZ .pdf
+125;24/05/2025;Leroy Merlin Toulon;MR FABIANI;100.0;Configuration de 2 Velux et 2 volet roulant SML a 3,2 M sous plafond;125 PDF LM LA VAL MR FABIANI .pdf
+126;26/05/2025;Leroy Merlin Cabriès;MR TARENTINO /;490.0;Pose d’un Velux CK02 GGL confort plus store DKL;126 PDF LM CAB MR TARENTINO  .pdf
+127;27/05/2025;Leroy Merlin Aubagne;MR PAGANUCCI;710.0;Pose d’un Velux MK04 GGL c confort sur toiture en everithe plus tuiles  dessus avec découpe de faitage et solin plomb hauteur sous plafond 3 m;127 PDF LM AUB MME PAGANUCCI .pdf
+128;27/05/2025;Leroy Merlin Cabriès;MR AUBERT;145.0;Pose d’un volet roulant SSL SK06 solaire SSL;128 PDF LM CAB MR AUBERT  .pdf
+129;27/05/2025;Particulier;;;Pose de 5 Volets roulants solaire SSL MK04 SASU MAÇONNERIE CONCEPT;129 PDF MME LOISEL  .pdf
+13;07/01/2025;Particulier;;970.0;Pose d’un Sun tunnel souple Velux TWF;13 PDF MR MARICAILLE  .pdf
+130;28/05/2025;Leroy Merlin Martigues;/ MR PIN;590.0;Pose d’un Velux MK04 GGL confort avec solin au faitage et reprise toiture et  store DKL;130 PDF LM MART MR PIN  .pdf
+131;28/05/2025;Leroy Merlin Martigues;/ MR CEAUX;480.0;Pose d’un Velux SK06 GPU confort plus volet roulant SML SK06 et transfo  KUX;131 PDF LM MART MR CEAUX .pdf
+132;29/05/2025;Particulier;;420.0;Pose d’un  store DSL U04 solaire;132 PDF HOTEL OCEANIA .pdf
+133;01/06/2025;Leroy Merlin Toulon;MR GUY;680.0;Pose d’un Velux SK06 GGU tout confort solaire plus volet roulant SSL SK06  avec découpe de faitage et solin;133 PDF LM LA VAL MME GUY  .pdf
+134;05/06/2025;Leroy Merlin Toulon;MR RIGAUD;;Pose de 2 Velux SK06 GGU tout confort solaire plus volet roulant SSL SK06;134 PDF LM VAL MR RIGAUD  .pdf
+135;10/06/2025;Particulier;;580.0;Pose d’un Velux MK04 GGU confort plus raccord EW sur toiture en everithe  plus tuile et reprise de faîtière avec recollage de tuile;135 PDF MME SEPTEMBRE .pdf
+136;10/06/2025;Particulier;;770.0;Pose d’un Velux SK06 GGU confort plus volet roulant solaire SSL SK06 SASU MAÇONNERIE CONCEPT;136 PDF MME RAYMOND .pdf
+137;12/06/2025;Leroy Merlin Aubagne;MR SICARDI;150.0;Pose d’un volet roulant SSL UK08 solaire;137 PDF LM AUB MME SICCARDI  .pdf
+138;13/06/2025;Leroy Merlin Cabriès;MR JOEDICKE;530.0;Pose d’un Velux SK06 GGU confort plus volet roulant solaire SSL SK06;138 PDF LM CAB MR JOEDICKE .pdf
+139;16/06/2025;Particulier;;;Pose de 2 Velux 78/98 MK04 GGU intégra confort plus volet roulant SML  MK04 et un Velux MK04 GGU confort;139 PDF EMC MENUISERIE  .pdf
+14;20/01/2025;Particulier;;;Pose de 1 Velux MK04 GGU confort intégra plus volet roulant SML MK04 et  un CK02 GGU confort , un UK04;14 PDF MME RODRIGUE  .pdf
+140;16/06/2025;Leroy Merlin La Valette;MR GARCIA;;Pose de 2 Velux MK04 GGL confort plus store DKL sur toiture en tuiles baties  dont un avec découpe de faitage et solin plomb;140 PDF LM T MR GARCIA  .pdf
+141;17/06/2025;Particulier;;490.0;Pose d’un Velux MK04 GGL confort et un Velux CK01 GGL confort  avec  reprise de toiture et solin plomb au faitage;141 PDF MR BRIANO .pdf
+142;18/06/2025;Castorama;/ MR LEGRAND;650.0;Pose d’un Velux SK06 GPU confort plus volet roulant SML SK06 plus transfo  KUX;142 PDF CASTO G MR LEGRAND  .pdf
+143;18/06/2025;Particulier;;500.0;Pose d’un Velux CK02 GGU confort plus store DKL  SASU MAÇONNERIE CONCEPT;143 PDF MR LOMBARDO  .pdf
+144;23/06/2025;Leroy Merlin Aubagne;MR ZAFFARONI;;Pose de 2 Velux UK04 GGU tout confort intégra solaire plus volet roulant  solaire UK04 SSL hauteur sous plafond plus de 3,2 M;144 PDF LM AUB MR ZAFFARONI.pdf
+145;24/06/2025;Leroy Merlin Toulon;MME GIOVANETTI;740.0;Pose de 2 volets roulants SSL SK08 solaire en pente extreme et 3 Volets  roulants SSL SK06 solaire pente classique;145 PDF LM LA VAL MME GIOVANETTI .pdf
+146;24/06/2025;Leroy Merlin Aubagne;MME LEGAL;470.0;Pose d’u  Velux SK06 GGL OU GGU plus raccord rénovation EW SK06 avec  solin au faitage;146 PDF LM AUB MME LEGAL  .pdf
+147;25/06/2025;Particulier;;;Pose de 2 Velux MK04 GPU confort plus volet roulant solaire SSL MK04 sur  toiture en everithe plus tuiles;147 PDF MME CHEVALIER .pdf
+148;26/06/2025;Leroy Merlin Aubagne;MME DETOURNADE;500.0;Pose d’un Velux MK04 GGU intégra tout confort solaire plus store DKL avec  solin au faitage;148 PDF LM AUB MME DETOURNADE .pdf
+149;26/06/2025;Particulier;;480.0;Remplacement d’une motorisation solaire KSX 100 SASU MAÇONNERIE CONCEPT;149 PDF CIOTAT GESTION MME MOISSET .pdf
+15;21/01/2025;Leroy Merlin Martigues;/ MR BLOEMHOEF;330.0;Pose d’un Velux SK06 GGU tout confort solaIre intégra avec solin au faitage  plus volet roulant SSL SK06 , un Velux UK04 GGU confort plus volet roulant;15 PDF LM MART MR BLOEMHOF .pdf
+150;27/06/2025;Leroy Merlin Toulon;MR BOUNAN;430.0;Pose d’un Velux MK04 GGL confort plus store DKL avec reprise de toiture;150 PDF LM LA VAL MR BOUNAN .pdf
+151;27/06/2025;Particulier;;840.0;Pose d’un volet roulant solaire SSL SK06  SASU MAÇONNERIE CONCEPT;151 PDF SCI MONTE CRISTO .pdf
+152;17/06/2025;Leroy Merlin Toulon;MR CHARRIER;300.0;Pose de 2 volets roulants SSL SK06 SSL solaire;152 PDF LM GR LIT MR CHARRIER  .pdf
+153;01/07/2025;Leroy Merlin Aubagne;MME AUBRAN;470.0;Pose d’un Velux UK04 GGL confort plus raccord EDW;153 PDF LM AUB MR AUBRAN .pdf
+154;03/07/2025;Leroy Merlin Toulon;MME ROIG;540.0;Pose d’un Velux MK04 GGU confort plus store DKL avec gouttière wakaflex  et solin a la faîtière;154 PDF LM GR LIT MME ROIG  .pdf
+155;03/07/2025;Leroy Merlin Toulon;MME ROIG;155.0;Pose d’un volet roulant SSL MK04 solaire;155 PDF LM GR LIT MME ROIG   .pdf
+156;04/07/2025;Particulier;;270.0;Remplacement d’un moteur plus batterie plus capteur solaire sur volet  roulant solaire Velux;156 PDF MR SARDO.pdf
+157;07/07/2025;Particulier;;490.0;Pose d’un Velux  MK04 GGL confort sur toiture en tuiles baties avec solin au  faitage;157 PDF MME COSTES.pdf
+158;03/07/2025;Leroy Merlin La Valette;MR WAGNER;300.0;Pose d’un volet roulant SSL solaire MK04 et un volet roulant SML SK06  électrique;158 PDF LM T MR WAGNER .pdf
+159;09/07/2025;Leroy Merlin Aubagne;MME FINELLO;;Pose de 3 Velux MK04 GGL confort plus store DKL et raccord EW MK04;159 PDF LM AUB MR FINELLO  .pdf
+16;21/01/2025;Particulier;;580.0;Pose d’un Velux MK04 GGU Confort plus volet roulant SSL MK04;16 PDF MR FERRARO  .pdf
+160;09/07/2025;Particulier;;;Pose de 1 volet roulant SSL MK04 solaire et un MK04 SML  , un volet roulant  SSL UK04 solaire et une motorisation KSX100K;160 PDF MME YOUSSOUF .pdf
+161;10/07/2025;Leroy Merlin Toulon;MR LUGARI;620.0;Pose d’un Velux CK02 GGU C plus raccord EDW sur toiture en everithe plus  tuiles pente extreme;161 PDF LM LA VAL MR LUGARI .pdf
+162;10/07/2025;Particulier;;860.0;Pose d’un volet roulant solaire UK04 SSL  SASU MAÇONNERIE CONCEPT;162 PDF MR BOUDARD  .pdf
+163;11/07/2025;Leroy Merlin Cabriès;MR GEISSE;610.0;Pose d’un Velux MK04 GGL confort plus raccord EW et volet roulant solaire  SSL MK04 avec découpe et solin au faitage;163 PDF LM CAB MR GEISSE  .pdf
+164;12/07/2025;Particulier;;270.0;Remplacement d’une batterie plus moteur et capteur solaire sur volet  roulant Velux;164 PDF MR BOZAS.pdf
+;11/07/2025;Leroy Merlin Martigues;/ MR LAFOY;100.0;Pose d’un volet roulant SSL MK04 solaire;165 PDF LM MART MR LAFOY.pdf
+166;08/07/2025;Distrilap;;179.0;Livraison MME GALLI;166 PDF DISTRILAP MME GALLI .pdf
+167;14/07/2025;Leroy Merlin Toulon;MR SAMYNA;;Pose de 3 Velux MK04 GGU confort intégra plus volet roulant SML MK04;167 PDF LM LA VAL MR SAMYNA.pdf
+168;15/07/2025;Particulier;;900.0;Pose d’un Velux UK04 GPL confort plus store occultant DKL et un Velux  MK04 GPL plus store occultant DKL;168 PDF MME CATALAN  .pdf
+169;16/07/2025;Leroy Merlin Aubagne;MR BLANC;420.0;Pose de d’un Velux MK04 GPU confort plus store DKL;169 PDF LM AUB MR BLANC  .pdf
+17;23/01/2025;Particulier;;815.0;Fourniture et pose d’un Velux MK04 78/98 GGU intégra confort plus volet  roulant SML MK04;17 PDF MR FERRIGNO .pdf
+170;16/07/2025;Particulier;;690.0;Pose d’un volet roulant électrique SML SK06 Velux  SASU MAÇONNERIE CONCEPT;170 PDF MR CHARRIER .pdf
+171;18/07/2025;Leroy Merlin La Valette;MR FOURNEAU;600.0;Pose d’un Velux UK04 GPL confort plus store MHL et DKL;171 PDF LM T MR FOURNEAU .pdf
+172;19/07/2025;Particulier;;870.0;Pose d’un volet roulant SSL UK04 solaire Velux  SASU MAÇONNERIE CONCEPT;172 PDF MR THEVENEAU.pdf
+173;21/07/2025;Castorama;/ MR FEKI;710.0;Pose d’un Velux UK04 GGL confort sur toiture everithe plus tuile 3 étage;173 PDF CASTO AIX MR FEKI  .pdf
+174;21/07/2025;Leroy Merlin La Valette;MR THELOT;420.0;Pose d’un Velux MK04 GGU confort plus raccord EW;174 PDF LM T MR THELOT .pdf
+175;22/07/2025;Particulier;;;Pose d’un Velux MK04 GGU tout confort solaire plus volet roulant solaire SSL  MK04;175 PDF MR GUILLEM .pdf
+176;23/07/2025;Particulier;;680.0;Pose d’un Velux CK04 GGU tout confort plus volet roulant solaire SSL CK04  SASU MAÇONNERIE CONCEPT;176 PDF MR DUPUY .pdf
+177;24/07/2025;Leroy Merlin Aubagne;MR BIGARE;400.0;Pose d’un Velux UK04 GGL tout confort et 2 Velux MK06 GGL tout confort  plus store DKL sur toiture en tuiles baties ancienne avec solin plomb au;177 PDF LM AUB MR BIGARE .pdf
+178;25/07/2025;Leroy Merlin Toulon;MR COMBRIE;315.0;Pose de 3 volet roulant SML SK06 plus transfo Kux;178 PDF LM LA VAL MR COMBRIE .pdf
+179;25/07/2025;Leroy Merlin Martigues;/ MR PASQUELIN;150.0;Pose d’un volet roulant solaire MK04 SSL;179 PDF LM MART MR PASQUELIN  .pdf
+18;23/01/2025;Particulier;;;Pose d’un Velux UK04 GGU tout confort solaire plus volet SSL UK04 solaire;18 PDF MR PERRON .pdf
+180;28/07/2025;Particulier;;;Pose de 2 Velux 78/98 MK04 GGU intégra confort plus volet roulant SML  MK04 et un Velux MK04 GGU confort;180 PDF EMC MENUISERIE  .pdf
+181;29/07/2025;Leroy Merlin Toulon;MR MARKOVIC;620.0;Pose d’un Velux CK02 GGU confort avec solin au faitage;181 PDF LM GR LIT MR MARKOVIC .pdf
+182;30/07/2025;Particulier;;;Pose de 2 Velux MK06 GGL confort 78/118 plus raccord EDW sur toiture en  everithe plus tuile;182 PDF 2CS TRAVAUX  .pdf
+183;31/07/2025;Leroy Merlin Aubagne;MME ANGER;720.0;Pose d’un Velux MK04 GGL confort plus raccord EDW et un Velux CK02 GGL  confort plus raccord EDW;183 PDF LM AUB MME ANGER .pdf
+184;01/08/2025;Leroy Merlin Toulon;MR DE LAURENTIS;720.0;Pose de 2 volet roulant SSL SK06 solaire avec dépose des anciens , 2 store  SKL S06 ATTENTION BIEN PRENDRE LA REF S06 et 2 motorisations solaires;184 PDF LM LA VAL MR DE LAURENTIS .pdf
+185;04/08/2025;Leroy Merlin La Valette;MR NAVARRO;330.0;Pose d’un Velux SK06 GGU tout confort solaire plus volet roulant SSL SK06 ,  un Velux MK04 GGU tout confort solaire plus volet roulant solaire SSL MK04;185 PDF LM T MR NAVARRO .pdf
+186;05/08/2025;Leroy Merlin Martigues;/ MME LIETAER;;Pose de 2 Velux UK04 GGU tout confort intégra solaire plus volet roulant SSL  UK04 hauteur sous plafond plus de 3,5 M et un Velux MK04 GGU tout confort;186 PDF LM MART MME LIETAER .pdf
+187;06/08/2025;Castorama;/ MR COUTARD;450.0;Pose d’un Velux CK02 GGU confort plus store DKL;187 PDF CASTO S MR COUTARD.pdf
+188;08/08/2025;Particulier;;;Fourniture et pose  d’un Volet roulant SK06 SSL solaire et une motorisation  KSX100;188 PDF MR NAVARRO  .pdf
+189;08/08/2025;Particulier;;509.0;Fourniture et pose dun volet roulant SML UK04  SASU MAÇONNERIE CONCEPT;189 PDF MR MARQUEZ.pdf
+19;24/01/2025;Leroy Merlin Martigues;/ MR BAROTTO;490.0;Pose d’un Velux CK02 GGL confort pas raccord EDW;19 PDF LM MART MR BAROTTO  .pdf
+190;11/08/2025;Leroy Merlin Toulon;MR VALLS;280.0;Pose de volets roulants solaires SSL MK04 et un moteur d’ouverture KSX100  solaire;190 PDF LM GR LIT MME VALLS .pdf
+191;11/08/2025;Leroy Merlin Toulon;MR PIGNOL;300.0;Pose de 2 volets roulants solaire SK06 SSL;191 PDF LM LA VAL MME PIGNOL  .pdf
+192;20/08/2025;Particulier;;;Pose de 2 volets roulants solaire SSL SK06  SASU MAÇONNERIE CONCEPT;192 PDF MR MENGOTTI .pdf
+193;25/08/2025;Particulier;;;Pose de 2 Velux CK02 GGL confort , un MK04 GGL confort plus store  occultant et un Velux SK06 GGL confort;193 PDF MR AVARELLO .pdf
+194;25/08/2025;Particulier;;270.0;Remplacement d’une batterie plus moteur et capteur solaire sur volet  roulant Velux;194 PDF MR ROGGO.pdf
+195;25/08/2025;Particulier;;250.0;Pose d’un store DKL 808 occultant  SASU MAÇONNERIE CONCEPT;195 PDF REFLET MARINE .pdf
+196;26/08/2025;Leroy Merlin La Valette;MR BERUDE;950.0;Pose d’un Velux MK04 GGU confort plus raccord EW et volet roulant SSL  MK04 , un Velux CK02 GGU confort plus raccord EW et volet roulant SSL;196 PDF LM T MR BERUDE .pdf
+197;27/08/2025;Castorama;/ MR KOCH;400.0;Pose d’un Velux SK06 GGU confort plus raccord EW;197 PDF CASTO G MR KOCH .pdf
+198;27/08/2025;Castorama;/ MR SAUPIN;450.0;Pose d’un Velux MK04 GGU confort plus volet roulant solaire SSL MK04  solaire;198 PDF CASTO S MR SAUPIN  .pdf
+199;27/08/2025;Leroy Merlin Aubagne;MME ISKANDAR;195.0;Pose d’un volet roulant SSL MK04 solaire;199 PDF LM AUB MR ISKANDAR .pdf
+2;02/01/2025;Leroy Merlin Cabriès;MME GACHET;500.0;Pose d’un Velux SK06 GGL confort plus store DKL et raccord EDW avec  chevêtre renforcé;2 PDF  LM CAB MR GACHET  .pdf
+20;27/01/2025;Castorama;/ MR MORENO;580.0;Pose d’un Velux MK04 GGL confort plus raccord EW  , un volet roulant SSL  solaire avec reprise de toiture;20 PDF CASTO MILLE MR MORENO  .pdf
+200;28/08/2025;Leroy Merlin Cabriès;MR GAY;380.0;Pose d’un volet roulant SSL SK06 solaire et un volet roulant SSL UK04  solaire;200 PDF LM CAB MME GAY  .pdf
+201;29/08/2025;Leroy Merlin Cabriès;MR JOLY;520.0;Pose d’un Velux MK04 GGL standard sur toiture en everithe plus tuiles plus  store DKL;201 PDF LM CAB MR JOLY  .pdf
+202;29/08/2025;Leroy Merlin Cabriès;MR ROCHE;600.0;Pose d’un Velux MK04 GGL tout confort finition BOIS NATUREL , plus volet  roulant SSL MK04 solaire sur toiture en everithe plus tuiles dessus dessous;202 PDF LM CAB MR ROCHE  .pdf
+203;01/09/2025;Leroy Merlin La Valette;MR GAULTIER/DUPRE;490.0;Pose d’un Velux MK04 GPL confort plus store DKL;203 PDF LM T MR GAULTIER .pdf
+204;03/09/2025;Leroy Merlin Toulon;MR SANCHEZ;;Pose de 3 Velux MK04 GGL TOUT Confort plus volet roulant SSL MK04 SSL  solaire;204 PDF LM LA VAL MR SANCHEZ .pdf
+205;03/09/2025;Leroy Merlin Toulon;MME RIVIERE;150.0;Pose d’un volet roulant solaire SSL UK04;205 PDF LM LA VAL MME RIVIERE .pdf
+206;04/09/2025;Particulier;;;Pose de 2 Velux MK04 GPU confort plus store DKL avec solin plomb au  faitage;206 PDF MR BARON  .pdf
+207;05/09/2025;Castorama;/ MME BASSET;570.0;Pose d’un Velux CK02 tout confort GGL finition bois naturel  , store DKL et  perche d’ouverture;207 PDF CASTO G MME BASSET .pdf
+208;08/09/2025;Particulier;;;Pose de 2 Velux MK04 GGL confort plus store DKL occultant  SASU MAÇONNERIE CONCEPT;208 PDF MME BLEIN .pdf
+209;09/09/2025;Leroy Merlin Aubagne;MR BOSSY;630.0;Pose d’un Velux SK06 GPU confort plus volet roulant solaire SK06 SSL  solaire sur toiture en tuiles dessus dessous plus plaque;209 PDF LM AUB MR BOSSY.pdf
+21;27/01/2025;Leroy Merlin Aubagne;MR LAURO;470.0;Pose d’un Velux SK06 GGU confort plus raccord EW et volet roulant solaire  SK06 SSL;21 PDF LM AUB MR LAURO .pdf
+210;09/09/2025;Particulier;;270.0;Remplacement d’une batterie plus moteur et capteur solaire sur volet  roulant Velux;210 PDF MR BADOUI.pdf
+211;10/09/2025;Leroy Merlin Toulon;MME JANGOTCHIAN;470.0;Pose d’un Velux MK04 GGU confort plus raccord EW et volet roulant solaire  MK04 SSL;211 PDF LM LAVAL MME JANGOTCHIAN .pdf
+212;10/09/2025;Leroy Merlin Toulon;MR GOMEZ;400.0;Pose d’un Velux MK04 GGL Confort plus store DKL;212 PDF LM LA VAL MR GOMEZ  .pdf
+213;11/09/2025;Leroy Merlin Martigues;/ MR DELAFONTAINE;570.0;Pose d’un Velux CK02 GGU confort , plus moteur KSX1000K et volet roulant  solaire SSL CK02;213 PDF LM MART MR DELAFONTAINE .pdf
+214;12/09/2025;Castorama;/ MR TOROSSIAN;500.0;Pose d’un Velux SK06 GGL confort plus volet roulant solaire SSL SK06;214 PDF CASTO S MME TOROSSIAN .pdf
+215;15/09/2025;Leroy Merlin Aubagne;MR LIEUTAUD;830.0;Pose d’un Velux UK04 GGL confort plus volet roulant SML UK04 hauteur  sous plafond 3 M avec découpe et solin au faitage;215 PDF LM AUB MR LIEUTAUD .pdf
+216;16/09/2025;Leroy Merlin Aubagne;MME AQUIN;600.0;Pose d’un Velux CK02 GGL tout confort finition bois naturel et un volet  roulant solaire CK02 SSL sur toiture en everithe plus tuiles;216 PDF LM AUB MME AQUIN.pdf
+217;16/09/2025;Leroy Merlin Aubagne;MR DUGO;600.0;Pose d’un Velux PK06 GPU confort plus volet roulant solaire PK06 SSL;217 PDF LM AUB MR DUGO  .pdf
+218;18/09/2025;Leroy Merlin Aubagne;MME STEEBERGEN;840.0;Pose d’un Velux MK04 GGU confort plus volet roulant solaire MK04 SSL sur  toiture anciennes baties;218 PDF LM AUB MR STEENBERGEN .pdf
+219;19/09/2025;Leroy Merlin La Valette;MR DUBOIS;420.0;Pose d’un Velux MK04 GGL tout confort plus store DKL et MHL;219 PDF LM T MR DUBOIS .pdf
+22;28/01/2025;Leroy Merlin Toulon;MR GAUTHIER/;;Pose de 2 Velux UK04 GGU confort plus volet roulant SML UK04 et transfo  KUX avec découpe de faitage et escalier equivalent 4 étage;22 PDF LM LA VAL MR GAUTHIER  .pdf
+220;19/09/2025;Particulier;;;Pose de 2 volets roulants SSL SK06 solaire SASU MAÇONNERIE CONCEPT;220 PDF MR BERNARD .pdf
+221;16/09/2025;Particulier;;780.0;Remplacement a l’identique de 1 Velux pour cause de dégradation du vitrage  suite au produit anti feu;221 PDF MME CRIPPA .pdf
+222;23/09/2025;Castorama;/ MR MENGELLE;980.0;Pose d’un Velux MK04 GPU confort et un Velux MK04 GGU confort avec  découpe et solin au faitage;222 PDF CASTO S MR MENGELLE  .pdf
+223;23/09/2025;Castorama;/ MR BANNOUR;530.0;Pose d’un Velux MK04 GGL confort plus raccord EW avec découpe de  faitage  solin;223 PDF CASTO S MR BANNOUR .pdf
+224;24/09/2025;Leroy Merlin Toulon;MME CAMARENA;710.0;Pose d’un Velux MK04 GGL confort plus store occultant DKL sur toiture en  everithe plus tuiles dessus dessous centre ville Marseille 3 étage sans;224 PDF LM LA VAL  MME CAMARENA .pdf
+225;24/09/2025;Particulier;;;Pose de 2 volet roulant SSL MK04 SSL et 2 moteur KSX100K  SASU MAÇONNERIE CONCEPT;225 PDF MME DE LAURENTIS  .pdf
+226;25/09/2025;Particulier;;;Pose de 2 Velux CK02 GGL confort , 1 Velux MK04 GGL confort plus store  DKL;226 PDF MR SEBASTIEN LUCIEN .pdf
+227;25/09/2025;Leroy Merlin Cabriès;MR LATIL;145.0;Pose d’un volet roulant solaire SSL MK06;227 PDF LM CAB MME LATIL  .pdf
+228;03/09/2025;Leroy Merlin Martigues;/ MR ROUIT;150.0;Pose d’un volet roulant SSL MK04 solaire;228 PDF LM MART MR ROUIT  .pdf
+229;25/09/2025;Particulier;;340.0;Pose d’un store DKL S06  plus clapet de blocage d’ouverture  SASU MAÇONNERIE CONCEPT;229 PDF FONCIA LE PRADET MME ROUSSEL .pdf
+23;30/01/2025;Particulier;;200.0;Remplacement d’une barre de manoeuvre sur Velux SK06;23 PDF FERANANDEZ.pdf
+230;26/09/2025;Particulier;;920.0;Pose d’un volet roulant SSL UK04 solaire  SASU MAÇONNERIE CONCEPT;230 PDF MR MICHALEC.pdf
+231;26/09/2025;Leroy Merlin Martigues;/ MR BAROTTO;490.0;Pose d’un Velux CK02 GGL Confort plus raccord EDW et store DKL;231 PDF LM MART MR BAROTTO .pdf
+232;29/09/2025;Particulier;;560.0;Pose d’un Velux MK04 GGL tout confort finition bois naturel  , un Velux MK04  GGU confort plus store DFD double MK04;232 PDF MME GARCIA GUSTIN  .pdf
+233;30/09/2025;Leroy Merlin Cabriès;MR MATOIS;;Pose de 2 Velux SK06 GGU tout confort plus store DKL et raccord EDW;233 PDF LM CAB MR MATOIS  .pdf
+234;03/10/2025;Distrilap;;122.0;Livraison MME MIESH;234 PDF DISTRILAP MME MIESH.pdf
+235;02/10/2025;Leroy Merlin Aubagne;MR VALVERDE;640.0;Pose d’un Velux MK04 GGL confort plus raccord EDW et store DKL sur  toiture en everithe plus tuiles avec reprise de toiture;235 PDF LM AUB MR VALVERDE  .pdf
+236;02/10/2025;Particulier;;650.0;Pose d’un Velux MK04 GPL confort plus volet roulant solaire SSL MK04  solaire et un volet roulant SSL UK04 solaire;236 PDF MR BEAU .pdf
+237;06/10/2025;Particulier;;;Pose de 2 Velux MK04 intégra confort plus store occultant électrique MK04  SASU MAÇONNERIE CONCEPT;237 PDF SOCIETE CASAVAL.pdf
+238;07/10/2025;Leroy Merlin Toulon;MR DELARTIGUE;;Pose de 3 Velux MK04 GGL confort avec raccord rénovation EW et store DKL  occultant;238 PDF LM GR LIT MR DELARTIGUE .pdf
+239;08/10/2025;Leroy Merlin Cabriès;MME RAVACHOL;640.0;Pose d’un Velux SK06 GGU Confort plus volet roulant solaire SSL SK06 ,  store DKL  avec découpe de faîtière et solin;239 PDF LM CAB MME RAVACHOL .pdf
+24;03/02/2025;Particulier;;700.0;Remplacement a l’identique  d’un volet roulant solaire SSL CK02 suite a  intempéries types grêle;24 PDF MR RIZZO .pdf
+240;09/10/2025;Particulier;;;Pose de 2 Velux UK04 GGU confort 134/98 plus volet roulant roulant solaire  SSL UK04;240 PDF BNTP LA CIOTAT .pdf
+241;09/10/2025;Particulier;;840.0;Pose d’un volet roulant SSL SK06 solaire  SASU MAÇONNERIE CONCEPT;241 PDF MME TOROSSIAN .pdf
+242;10/10/2025;Leroy Merlin Aubagne;MR SAVOYE;400.0;Pose d’un Velux CK02 GGU confort plus store DKL;242 PDF LM AU MME SAVOYE .pdf
+243;13/10/2025;Leroy Merlin Cabriès;MR BLANC;640.0;Pose d’un Velux MK04 GGU confort plus volet roulant SSL MK04;243 PDF LM CAB MR BLANC  .pdf
+244;13/10/2025;Leroy Merlin Toulon;MR GAVARD;450.0;Pose d’un Velux MK04 GGL confort plus store DKL;244 PDF LM GR LIT MR GAVARD  .pdf
+245;14/10/2025;Particulier;;550.0;Pose d’un Velux MK04 GGL confort plus raccord EDW ET store DKL  occultant;245 PDF FERTAPROMOTION  .pdf
+246;14/10/2025;Particulier;;440.0;Pose d’un Velux CK02 GGL confort plus raccord EDW  SASU MAÇONNERIE CONCEPT;246 PDF MR OSTACCHINI .pdf
+247;15/10/2025;Leroy Merlin Aubagne;MR PETITPAS;450.0;Pose d’un Velux UK04 GGU confort plus store DKL;247 PDF LM AUB MME PETITPAS .pdf
+248;15/10/2025;Leroy Merlin Aubagne;MR BOTTIN;500.0;Pose d’un Velux MK04 GGU confort avec raccord EW  plus volet roulant  solaire MK04 SSL;248 PDF LM AUB MR BOTTIN  .pdf
+249;16/10/2025;Particulier;;700.0;Pose d’un Velux MK04 GGU tout confort avec solin au faitage , store DKL  et  un Velux CK02 GGU tout confort  55/78;249 PDF MME MARQUET.pdf
+25;03/02/0205;Leroy Merlin Toulon;MR TEISSEIRE;145.0;Pose d’un volet roulant SSL MK04 solaire;25 PDF LM LA VAL MR TEISSEIRE   .pdf
+250;17/10/2025;Leroy Merlin La Valette;MR DELCONTE;770.0;Pose d’un Velux MK04 GPL confort et un Velux MK04 GGL confort plus  raccord EW;250 PDF LM T MR DELCOMTE  .pdf
+251;18/10/2025;Particulier;;;Fourniture d’un Veux SK06 GGU intégra confort plus raccord EDW;251 PDF SARL GIP.pdf
+252;18/10/2025;Particulier;;270.0;Remplacement d’une batterie plus moteur et capteur solaire sur volet  roulant Velux;252 PDF MR BACQUIE.pdf
+253;21/10/2025;Particulier;;;Pose de 2 Velux mK04 GGU confort plus store DKL sur toiture en tuiles  baties avec solin wakaflex au faitage;253 PDF MR BOUVIER  .pdf
+254;22/10/2025;Particulier;;;Pose de 2 Velux MK04 GGL confort avec découpe et solin au faitage plus  volet roulant solaire SSL MK04;254 PDF MME JADOT  .pdf
+255;22/10/2025;Leroy Merlin Aubagne;MR SANCHEZ;430.0;Pose d’un Velux mK04 GGL confort plus store DKL;255 PDF LM AUB MR SANCHEZ.pdf
+256;24/10/2025;Particulier;;700.0;Remplacement d’un moteur d’ouverture de Velux solaire plus batterie et  capteur et remplacement d’un moteur plus batterie et capteur solaire sur;256 PDF MME ADELINE .pdf
+256;24/10/2025;Particulier;;700.0;Remplacement d’un moteur d’ouverture de Velux solaire plus batterie et  capteur et remplacement d’un moteur plus batterie et capteur solaire sur;256 PDF MMR ADELINE.pdf
+257;23/10/2025;Castorama;/ MR BUIRET;750.0;Pose d’un Velux CK02 GGU confort plus raccord EDW avec solin au faitage;257 PDF CASTO MME BUIRET .pdf
+258;23/10/2025;Particulier;;580.0;Pose d’un Velux MK04 GGL confort  plus raccord d’étanchéité suite a  infiltration;258 PDF MME MUNOZ .pdf
+259;24/10/2025;Leroy Merlin Toulon;MR DELANGLADES;225.0;Pose d’un volet roulant solaire SK06 SSL;259 PDF LM LA VAL MR DELANGLADES  .pdf
+26;05/02/2025;Leroy Merlin La Valette;MR GARNIER;590.0;Pose d’un Velux SK06 GGU confort OU un Velux UK04 GGU confort plus  store DKL occultant;26 PDF LM T MR GARNIER .pdf
+260;24/10/2025;Leroy Merlin Aubagne;MR SERPOLLET;940.0;Pose de 2 Velux SK06 GGL tout confort plus raccord EW et store DSL solaire  SK06;260 PDF LM AUB MR SERPOLET  .pdf
+261;28/10/2025;Castorama;/ MR PAUMIER;450.0;Pose de 2 Velux MK04 GPU confort et un Velux MK04 GGU intégra tout  confort solaire en cage d’escalier  plus 2 stores DKL;261 PDF CASTO G MR PAUMIER  .pdf
+262;29/10/2025;Particulier;;820.0;Pose d’un Velux MK04 GGL confort  SASU MAÇONNERIE CONCEPT;262 PDF MME SERMET  .pdf
+263;29/10/2025;Castorama;/ MR POGGIO;300.0;Pose de 2 volet roulants solaire SSL MK04;263 PDF CASTO G MR POGGIO .pdf
+264;30/10/2025;Particulier;;970.0;Pose d’un Velux mK04 GGL confort avec record d’étanchéité EW et store  occultant DKL MK04;264 PDF MR MUSSILLON.pdf
+265;10/06/2025;Particulier;;730.0;Pose d’un volet roulant SSL MK04 SOLAIRE  SASU MAÇONNERIE CONCEPT;265 PDF MR BERCHI  ROLAIX .pdf
+266;31/10/2025;Particulier;;;Pose d’un Velux MK04 GGU tout confort intégra solaire avec dépose et pose  de volet roulant solaire;266 PDF MR LEBHONOMME.pdf
+267;03/11/2025;Leroy Merlin Martigues;/ MR DOUAI;850.0;Pose d’un Velux MK06 GGU tout confort GGU sur toiture en everithe plus  tuile dessus e gouttière plomb plus déposé et pose  volet roulant SSL MK06;267 PDF LM MART MR DOUAI .pdf
+;04/11/2025;Leroy Merlin Aubagne;MR BOYER;990.0;Pose d’un Velux UK04 GGU confort intégra électrique plus volet roulant UK04  SML sur toiture en tuiles baties ancienne avec découpe de faîtière et solin;268 PDF LM AUB MR BOYER .pdf
+269;05/11/2025;Particulier;;;Pose de 2 Velux SK06 GGU confort intégra plus volet roulant SML SK06  SASU MAÇONNERIE CONCEPT;269 PDF MR DI BARTOLO .pdf
+27;06/02/2025;Particulier;;;Pose de 2 Velux MK04 GPU confort plus raccord EDW;27 PDF MME GARCIN .pdf
+270;06/11/2025;Leroy Merlin Cabriès;MR MAZAN;565.0;Pose d’un Velux UK04 GGU TOUT confort plus raccord EW et store occultant  DKL;270 PDF LM CAB MR MAZAN .pdf
+271;06/11/2025;Leroy Merlin Toulon;MR BRUNET;300.0;Pose d’une motorisation KSX100K solaire et un volet roulant SSL MK04  solaire;271 PDF LM LA VAL MR BRUNET .pdf
+;07/11/2025;Castorama;/ MR FREZE;430.0;Pose d’un Velux SK06 GGU condor plus raccord EW rénovation plus store  MHL SK00;272 PDF CASTO S MR FREZE  .pdf
+273;08/11/2025;Particulier;;960.0;Pose d’un Velux MK04 GGL confort plus store DKL  SASU MAÇONNERIE CONCEPT;273 PDF AGENCE ARNAUD  .pdf
+274;12/11/2025;Particulier;;770.0;Pose d’un Velux SK06 GGU confort plus store DKL et demontage d’un Velux  avec débouchage toiture;274 PDF MR CAMPS .pdf
+275;13/11/2025;Castorama;/ MR PASTORE;500.0;Pose d’un Velux SK06 GGU confort plus raccord EDW;275 PDF CASTO S MR PASTORE .pdf
+276;14/11/2025;Leroy Merlin La Valette;MME HERNANDEZ;420.0;Pose d’un Velux MK04 GGU confort plus raccord EW;276 PDF  LM T MME HERNANDEZ.pdf
+277;18/11/2025;Leroy Merlin Cabriès;MME FAURE;490.0;Pose d’un Velux SK08 GGU confort plus raccord EW SK08 et store occultant  DKL;277 PDF LM CAB MME FAURE .pdf
+278;20/11/2025;Castorama;/ MR GRAS;750.0;Pose d’un Velux CK04 GPU confort plus store DKL sur toiture en tuile baties  anciennes 3 etage sans ascenseur place piétonne;278 PDF CASTO G MR GRAS  .pdf
+279;21/11/2025;Leroy Merlin Cabriès;MR CHAMMOUGON;590.0;Pose d’un Velux MK04 GGU tout confort intégra plus volet roulant SML MK04  hauteur sous plafond plus de 3M;279 PDF LM CAB MR CHAMMOUGON - copie.pdf
+28;10/02/2025;Particulier;;500.0;Pose d’un Velux CK02 55/78 GGU confort plus motorisation solaire et volet  roulant SSL CK02 et un Velux SK06 114/118 tout confort GGU solaire intégra;28 PDF MR DEMOTIER .pdf
+280;17/11/2025;Leroy Merlin Toulon;MR IEHLE;450.0;Pose d’un Velux MK04 GGU tout confort solaire plus raccord EDW;280 PDF LM GR LIT MME IEHLE.pdf
+281;21/11/2025;Leroy Merlin Cabriès;MR BENSOUSEM;145.0;Pose d’un volet roulant solaire SSL MK04 solaire plus KIT Z0Z 254;281 PDF LM CAB MR BENSOUSEM .pdf
+282;22/11/2025;Particulier;;920.0;Pose d’un volet roulant solaire SSL UK04  SASU MAÇONNERIE CONCEPT;282 PDF MR GABETO .pdf
+283;22/11/2025;Particulier;;230.0;Replacement d’une tuile de dessous fendu sous solin plomb contre mur  SASU MAÇONNERIE CONCEPT;283 PDF OSDC .pdf
+284;24/11/2025;Particulier;;490.0;Pose d’un Velux MK04 GGL confort plus raccord EDW  SASU MAÇONNERIE CONCEPT;284 PDF MME ROUSEELLE  .pdf
+285;24/11/2025;Particulier;;770.0;Remplacement d’un volet roulant Velux SK06 SML a l’identique  suite a  tentative d’effraction;285 PDF MME CASTAGNA  .pdf
+286;24/11/2025;Particulier;;920.0;Pose d’un Velux MK04 GGL confort plus store DKL  SASU MAÇONNERIE CONCEPT;286 PDF MME HUMBLOTLE QUORUM.pdf
+287;25/11/2025;Particulier;;680.0;Pose d’un Velux MK06 GGU confort plus raccord EDW;287  PDF SCI KENNEDY.pdf
+288;26/11/2025;Particulier;MME LOSARDO;600.0;Pose d’un Velux CK02 GGU tout confort plus volet roulant solaire CK02 SSL;288 PDF BNTP ROQUEVAIRE  .pdf
+289;26/11/2025;Leroy Merlin Toulon;MR FERREIRA;490.0;Pose d’un Velux UK04 GGU confort plus raccord EW et store occultant DKL;289 PDF LM LA VAL MR FERREIRE.pdf
+29;10/02/2025;Leroy Merlin La Valette;MR POURTIER;300.0;Pose de 2 volets roulants SML UK04 avec dépose des anciens;29 PDF LM T MME POURTIER .pdf
+290;28/11/2025;Particulier;;700.0;Pose d’un Velux MK04 GGU tout confort plus store DKL occultant  SASU MAÇONNERIE CONCEPT;290 PDF MR NICOLETIS .pdf
+291;27/11/2025;Particulier;;870.0;Pose d’un Velux SK06 GPL confort plus 2 volets roulants solaires SK06 SSL  SASU MAÇONNERIE CONCEPT;291 PDF MR MICHEL .pdf
+292;28/11/2025;Particulier;LES ESTUDINES;300.0;Remplacement d’une barre de manœuvre SK06 GGL;292 PDF BNTP .pdf
+293;29/11/2025;Particulier;;580.0;Pose d’un volet roulant SSL MK04 solaire et motorisation d’ouverture  KSX100;293 PDF MR BERNARD .pdf
+294;01/12/2025;Leroy Merlin Martigues;/ MR ANTITOMASO;550.0;Pose d’un Velux UK08 GGU tout confort solaire plus volet roulant solaire  UK08 SSL hauteur sous plafond plus de 3 m;294 PDF LM MART ANTITOMASO.pdf
+295;12/11/2025;Particulier;;610.0;Reprise d’étanchéité sur Velux car pose non conforme  avec remplacement  de raccord d’etanchéité M04 car les tuiles en bas a gauche du Velux on mal;295 PDF MME ADELINE  .pdf
+296;04/12/2025;Leroy Merlin La Valette;MR LE VACHER;520.0;Pose d’un Velux SK06 GGU confort plus volet roulant solaire SSL SK06;296 PDF LM T MR LE VACHER .pdf
+297;04/12/2025;Particulier;;620.0;Pose d’un Velux SK06 GGL confort plus raccord EW et store occultant DKL SASU MAÇONNERIE CONCEPT;297 PDF MME SOLERE .pdf
+298;05/12/2025;Particulier;;550.0;Pose d’un Velux MK04 GGL confort plus raccord EDW plus store DSL;298 PDF MME ARMAND .pdf
+299;05/12/2025;Distrilap;;83.0;Livraison MR BOUSQUET;299 PDF DISTRILAP MR BOUSQUET.pdf
+3;06/01/2024;Particulier;;;Fourniture de 13 télécommandes Velux;3 PDF SUMMERHOTELGROUP  .pdf
+30;11/02/2025;Leroy Merlin Toulon;MME RAMBELOSON;;Pose de 2 Velux SK06 GGU intégra électrique pas volet roulant SML SK06;30 PDF LM LA VAL MME RAMBELOSON  .pdf
+300;17/11/2025;Leroy Merlin Toulon;MR IEHLE;155.0;Pose d’un volet roulant SSL MK04 SSL;300 PDF LM GR LIT MME IEHLE .pdf
+301;08/12/2025;Leroy Merlin Aubagne;MR POMMIER;600.0;Pose d’un Velux UK04 intégra confort plus volet roulant SML UK04 électrique;301 PDF LM AUB MR POMMIER  .pdf
+302;09/12/2025;Particulier;;;Pose de 2 Velux MK04 GGL confort plus store DKL avec goutiere plomb  ou  wakaflex;302 PDF MR GARCIA  .pdf
+303;11/12/2025;Leroy Merlin Cabriès;MR BONHOMMET;560.0;Pose d’un Velux SK06 GGU confort plus raccord EDW;303 PDF LM CAB MR BONHOMMET.pdf
+304;11/12/2025;Leroy Merlin Martigues;/ MR FOUILLARON;600.0;Pose d’un Velux MK06 GGU confort plus store DKL MK06;304 PDF LM MART MR FOUILLARON  .pdf
+305;12/12/2025;Leroy Merlin Toulon;MR CHOUARD;420.0;Pose d’un Velux CK02 GGU confort plus raccord EW et store DKL;305 PDF LM LA VAL MR CHOUARD .pdf
+306;15/12/2025;Leroy Merlin Aubagne;MR AUPITRE;420.0;Pose d’un Velux SK06 GPU confort plus store occultant DKL;306 PDF LM AUB MR AUPITRE .pdf
+307;15/12/2025;Particulier;;;Pose de 2 volets roulants SSL UK04 solaire;307 PDF RCT .pdf
+308;16/12/2025;Leroy Merlin Cabriès;MR DELABIE;770.0;Pose d’un Velux UK04 GGU confort plus volet roulant solaire , hauteur sous  plafond pluie de 3 M;308 PDF LM CAB MR DELABIE .pdf
+309;16/12/2025;Leroy Merlin Cabriès;MR DUDEK;270.0;Pose de 2 volets roulants SSL MK04 solaire;309 PDF LM CAB MR DUDEK.pdf
+31;12/02/2025;Particulier;;540.0;Reprise de pose de Velux MK04 GGU confort intégra suite a pose non  conforme avec fourniture de raccord d’étanchéité MK04 EDW;31 PDF MR QUARELLO .pdf
+310;17/12/2025;Particulier;;619.0;Pose d’un Velux SK06 GGL confort plus volet roulant solaire SK06 SSL  SASU MAÇONNERIE CONCEPT;310 PDF MR D AREXY .pdf
+311;18/12/2025;Particulier;;500.0;Pose d’un Velux CK02 GGU confort plus store  occultant DKL  SASU MAÇONNERIE CONCEPT;311 PDF MR DANTEN QUENOUILLE .pdf
+312;23/12/2025;Particulier;;400.0;Fourniture et pose d’une barre de manoeuvre CK02 et un moteur d’ouverture  velux;312 PDF STE TRAVAUX HAUTEUR .pdf
+313;23/12/2025;Leroy Merlin Cabriès;MR BOMPIEYRE;220.0;Pose de 2 volets roulant solaire SSL MK04;313 PDF LM CAB MR BOMPIEYRE .pdf
+314;27/12/2025;Particulier;;270.0;Remplacement d’une batterie plus moteur et capteur solaire sur volet  roulant Velux;314 PDF MR BUGEJA.pdf
+32;12/02/2025;Castorama;/ MR GIRARD;180.0;Pose d’un volet roulant solaire SSL SK08 avec dépose de l’ancien;32 PDF CASTO MR GIRARD  .pdf
+33;13/02/2024;Leroy Merlin Toulon;MR LUCCHESI;800.0;Pose de 2 Velux MK04 GGU tout confort donc un avec solin au faitage plus  store DKL;33 PDF LM LA VAL MR LUCCHESI  .pdf
+34;14/02/2025;Distrilap;;110.0;Livraison chantier Mr Martin;34 PDF DISTRILAP .pdf
+35;14/02/2025;Particulier;;70.0;Livraison chantier Vauvenargue Mr Senez;35 PDF DMCC.pdf
+36;17/02/2025;Leroy Merlin Cabriès;MR DYE/ BAHRAMY;610.0;Pose d’un Velux MK04 GGL confort plus raccord EW avec solin au faitage sur  toiture ancienne en tuiles baties;36 PDF LM CAB MME DYE.pdf
+37;17/02/2025;Particulier;;700.0;Pose de 2 rehausses et  fenêtre Velux pour toit plat , plus store solaire DSU;37 PDF SARL VILLA PROVENCE  .pdf
+38;18/02/2025;Leroy Merlin Martigues;/ MR PIRAS;720.0;Pose d’un Velux MK04 GGU tout confort plus raccord EDW et volet roulant  SSL MK04;38 PDF LM MART MR PIRAS  .pdf
+39;19/02/2025;Particulier;;510.0;Pose d’un Velux MK04 GGL confort et un Velux CK02 GGL confort plus store  occultant CK02;39 PDF SCI JTM CEYRESTE .pdf
+4;07/01/2025;Leroy Merlin Toulon;MR LORMIER;;Pose de 2 Velux SK06 GGU tout confort intégra solaire plus volet roulant  solaire SSL SK06 et raccord rénovation EW;4 PDF LM LA VAL MR LORMIER .pdf
+40;20/02/2025;Leroy Merlin Cabriès;MR DOLLEON;260.0;Pose de 2 volets roulants solaires MK04 SSL;40 PDF LM CAB MR DOLLEON  .pdf
+41;20/02/2025;Particulier;;950.0;Pose d’un volet roulant SSL UK04 solaire;41 PDF MR FLORAC .pdf
+42;21/02/2025;Particulier;;;Pose d’un Velux MK04 GGU 2062 Accoustique tout confort plus raccord EDW;42 PDF GIOVINAZZO    .pdf
+43;04/02/2025;Leroy Merlin Aubagne;MR RAGGIRI;300.0;Pose d’un volet roulant solaire SSL CK02 et un volet roulant solaire SSL  MK04;43 PDF LM AUB MR RAGGIRI .pdf
+44;24/02/2025;Particulier;;580.0;Pose d’un Velux MK04 GGU confort plus volet roulant SSL MK04;44 PDF MME CASTERA.pdf
+45;24/02/2025;Leroy Merlin La Valette;MR BRASSEUR;445.0;Pose d’un Velux CK04 GGU confort avec découpe et solin au faitage;45 PDF LM T MR BRASSEUR  .pdf
+46;25/02/2025;Particulier;;;Pose d’un Velux MK04 GGU confort 78/98 avec création de chevêtre  plus un  volet roulant solaire MK04 SSL , un Velux CK02 GGU confort 55/78 et 2 store;46 PDF MME GINOUX  .pdf
+47;26/02/2025;Particulier;;500.0;Pose d’un Velux CK02 GGU confort plus raccord EW , moteur KSX100K et  volet roulant SSL CK02;47 PDF MME FRANCOZ .pdf
+48;26/02/2025;Particulier;;760.0;Pose d’un Velux UK04 GGU confort plus raccord EDW et store DKL;48 PDF MME PEYRONEL  .pdf
+49;27/02/2025;Leroy Merlin Cabriès;MR IMBERT;490.0;Pose d’un Velux CK02 GGU confort plus raccord EDW;49 PDF LM CAB MR IMBERT .pdf
+5;08/01/2025;Leroy Merlin Cabriès;MR GUERCIO;950.0;Pose de 3 Velux MK04 GPU confort plus store DKL;5 PDF LM CAB MR GUERCIO .pdf
+50;27/02/2025;Leroy Merlin Toulon;MR ROUSSELLE;900.0;Pose de 2 Velux MK04 GGL Confort  plus raccord EDW;50 PDF LM GR LIT MR ROUSSELLE   .pdf
+51;28/02/2025;Particulier;;820.0;Pose d’un Velux UK04 GPL confort avec volet roulant solaire UK04 SSL;51 PDF MR WAGNER .pdf
+52;03/03/2025;Particulier;;;Pose de 2 MK04 GGU 78/98 Velux tout confort solaire plus volet roulant  solaire SSL MK04;52 PDF BMR RENOVATION.pdf
+53;04/03/2025;Particulier;;;Pose de 2 Velux MK04 78/98 GGU confort plus volet roulant solaire SSL  MK04  et 2 CK02 GGU confort sur toiture en tuiles baties anciennes;53 PDF MME DUBROU .pdf
+54;05/03/2025;Particulier;;500.0;Pose d’un Velux SK06 GGU confort intégra plus volet roulant SML SK06;54 PDF MG RENOVATION .pdf
+55;07/03/2025;Leroy Merlin Cabriès;MR COLOMBIES;520.0;Pose d’un Velux UK04 GPL tout confort plus volet roulant solaire UK04 SSL;55 PDF LM CAB MME COLOMBIES .pdf
+56;10/03/2025;Particulier;;;Pose de 2 Velux MK04 78/98 GGU confort plus store DKL et un Velux CK02  55/78 GGU confort;56 PDF MR ESPOSITO:BRETON.pdf
+57;11/03/2025;Particulier;;;Pose d’un volet roulant solaire SSL MK04 plus motorisation solaire KSX100;57 PDF MME GANTOU .pdf
+58;11/03/2025;Particulier;;970.0;Pose d’un Velux MK04 78/98 GGU tout confort plus volet roulant solaire SSL;58 PDF MME ALIBERT .pdf
+59;12/03/2025;Castorama;/ MR VASLIN;350.0;Pose d’un Velux MK04 GPU confort plus raccord EW et store DKL;59 PDF CASTO S MR VASLIN.pdf
+6;09/01/2025;Particulier;;;Remplacement de 2 moteur électrique sur fenêtre intégra , pose d’un volet  roulant SML SK06 , un volet roulant SSL MK04;6  PDF SUMMERHOTELGROUP  .pdf
+60;12/03/2025;Particulier;;790.0;Pose d’un Velux 134/98 GGU intégra plus volet roulant SML MK04;60 PDF MR ROTHER.pdf
+61;13/03/2025;Leroy Merlin La Valette;MME VIDAL;;Pose de 2 Velux UK04 GGU tout confort solaire plus moustiquaire ZIL et un  store DKL UK04 , avec un solin au faitage sur l’un des Velux;61 PDF LM T MME VIDAL .pdf
+62;14/03/2025;Leroy Merlin Cabriès;MR MOULIN;220.0;Pose de 2 volets roulants solaire SSL MK04;62 PDF LM CAB MR MOULIN  .pdf
+63;14/03/2025;Leroy Merlin Cabriès;MR ELALOUA;220.0;Pose de 2 volets roulants solaire SSL SK06;63 PDF LM CAB MR ELALOUA .pdf
+64;15/03/2025;Particulier;;200.0;Remplacement d’une barre de manoeuvre sur Velux SK06;64 PDF FERANANDEZ.pdf
+65;17/03/2025;Particulier;;420.0;Pose d’un Velux CK01 GGL confort plus raccord d’étanchéité EDW sur  toiture en tuile baties avec solin au faitage;65 PDF MME CHEVALIER.pdf
+66;18/03/2025;Leroy Merlin Toulon;MR CORRAO;500.0;Pose d’un Velux UK04 GGL standard plus store DKL UK04;66 PDF LM VAL MR CORRAO.pdf
+67;18/03/2025;Particulier;;250.0;Pose d’une fenêtre coupoles pour toit plat Velux;67 PDF MARINAL PISCINES.pdf
+68;20/03/2024;Particulier;;300.0;Remplacement d’un moteur plus batterie plus capteur solaire sur volet  roulant Velux;68 PDF MME MARINO.pdf
+69;19/03/2025;Leroy Merlin Martigues;/ MR CLARET;400.0;Pose d’un Velux CK02 GGU confort GGL plus raccord EDW;69 PDF LM MART CLARET.pdf
+7;10/01/2025;Leroy Merlin Cabriès;MR REVELLIN CLERC;470.0;Pose d’un Velux CK02 GGU tout confort plus volet roulant SSL CK02 solaire;7 PDF LM CAB MR REVELLIN CLERC .pdf
+70;20/03/2025;Leroy Merlin Aubagne;MR ROIG;600.0;Pose d’un Velux UK04 GPL confort plus store DKL arc solin au faitage;70 PDF LM AUB MR ROIG  .pdf
+71;24/03/2025;Particulier;;;Pose de 6 Velux SK06 intégra GGU tout confort solaire plus volet roulant  solaire SK06 SSL er un velux CK02 GGU tout confort plus volet roulant SSL;71 PDF MR BANCEL .pdf
+72;25/03/2025;Particulier;;960.0;Pose d’un Velux MK04 GGL confort plus store DKL  SASU MAÇONNERIE CONCEPT;72 PDF AGENCE ARNAUD  .pdf
+73;26/03/2025;Castorama;/ MR PHILIP;610.0;Pose d’un Velux GGU confort SK06 plus raccord EW et volet roulant solaire  SSL SK06;73 PDF CASTO M MR PHILIP .pdf
+74;27/03/2025;Particulier;;710.0;Pose d’un Velux MK04 GPU confort plus volet roulant solaire MK04 SSL;74 PDF MR LADOUZE  .pdf
+75;27/03/2025;Leroy Merlin Toulon;MR GUESMI;300.0;Pose de 3 volets roulants SML CK02;75 PDF LM GR LIT MR GUESMI .pdf
+76;28/03/2025;Distrilap;;89.0;Livraison chantier Mr Schaufleberger;76 PDF DISTRILAP MR SCHAUFELBERGER.pdf
+77;07/04/2025;Particulier;;840.0;Reprise d’étanchéité  avec remplacement de raccord EDW SK06 suite a une  pose non conforme a la norme Velux avec reprise de toiture avec solin;77 PDF MME BISBAL  .pdf
+78;01/04/2025;Particulier;;700.0;Mise de tuiles de Ventilations plus recollage de tuiles;78 PDF DEPANNAGE GAZ.pdf
+79;31/03/2025;Leroy Merlin Toulon;MR DAUBET;;Pose de 2 Velux MK04 GGU confort avec store occultant sur toiture en tuiles  baties anciennes , 2 étages sans ascenseur plus mezzanine;79 PDF LM LA VAL MR DAUBET .pdf
+8;10/01/2025;Leroy Merlin Toulon;MR CHARELLO;630.0;Pose d’un Velux SK06 GGU intégra solaire tout confort hauteur sous plafond  plus de 3 M  plus volet roulant SSL Solaire  SK06;8 PDF LM LA VAL MR CHARELLO .pdf
+80;01/04/2025;Particulier;;;Pose d’un Velux UK04 GGU tout confort solaire intégra plus 2 volets roulants  solaire SSL UK04;80 PDF MME CASTANHEIRA .pdf
+81;02/04/2025;Particulier;;580.0;Pose d’un Velux MK04 GGU confort plus store DSL solaire MK04 et un Velux  CK02 GGU confort plus store DKL manuel avec solin a la faîtière;81 PDF MR CHIPPAUX .pdf
+82;03/04/2025;Leroy Merlin La Valette;MME BARBIER;865.0;Pose d’un Velux UK04 GGU Tout confort solaire plus vole roulant solaire SSL  SK06 avec renforcement de charpente;82 PDF LM T MME BARBIER .pdf
+83;21/04/2025;Particulier;;950.0;Pose d’un volet roulant SSL SK06 solaire  SASU MAÇONNERIE CONCEPT;83 PDF MME ARMAND  .pdf
+84;08/04/2025;Particulier;;;Pose de 2 Velux MK04 GPU confort plus store DKL MK04  SASU MAÇONNERIE CONCEPT;84 PDF SCI TONGA.pdf
+85;08/04/2025;Leroy Merlin Aubagne;MR BOUTTIN LE;550.0;Pose d’un Velux CK02 GGU confort plus raccord EDW et store DKL sur  toiture en everithe plus tuiles;85 PDF LM AUB MR BOUTTIN LE NEINDRE .pdf
+86;09/04/2025;Leroy Merlin Toulon;MR MORA;;Pose de 3 Velux MK04 GGU confort plus raccord EW et store MHL;86 PDF LM LA VAL MR MORA .pdf
+87;11/04/2025;Leroy Merlin Cabriès;MR COMET;420.0;Pose d’un Velux CK02 GGU confort;87 PDF LM CAB MR COMET  .pdf
+88;11/04/2025;Particulier;;580.0;Pose d’un Velux MK04 GGU confort plus raccord EW et store DKL  SASU MAÇONNERIE CONCEPT;88 PDF SCI MARIE MARIE .pdf
+89;11/04/2025;Leroy Merlin Cabriès;MR COMET;75.0;Pose d’un volet roulant SSL CK02 solaire;89 PDF LM CAB MR COMET   .pdf
+9;13/01/2025;Leroy Merlin Toulon;MR NICOLAIDES;650.0;Pose d’un Velux UK04 GGU confort plus raccord EDW sur toiture en everithe;9 PDF LM GR LIT MR NICOLAIDES .pdf
+90;14/04/2025;Particulier;;98.0;Fourniture et pose  d’un raccord SK06 EW SASU MAÇONNERIE CONCEPT;90 PDF MR PHILIP.pdf
+91;18/04/2025;Leroy Merlin Cabriès;MR AUBERT;245.0;Pose d’un volet roulant solaire SSL UK04;91 PDF LM CAB MR AUBERT  .pdf
+92;19/04/2025;Leroy Merlin La Valette;MR LAFON;350.0;Pose d’un Velux MK04 GGU confort plus raccord rénovation EW MK04;92 PDF LM T MR LAFON .pdf
+93;21/04/2025;Leroy Merlin La Valette;MR MAROIS;720.0;Pose d’un UK04 GGU confort plus store DKL avec découpe de faitage et  solin;93 PDF LM T MR MAROIS  .pdf
+94;22/04/2025;Leroy Merlin Toulon;MR PATUREL;500.0;Pose d’un Velux UK04 GPL confort plus volet roulant solaire UK04 SSL;94 PDF LM GR LIT MR PATUREL .pdf
+95;23/04/2025;Particulier;;450.0;Pose d’un Velux CK01 GGL confort plus store DSL avec solin entre le mur et  la toiture;95 PDF  SCI 4R PACA CONCIERGERIE .pdf
+96;23/04/2025;Particulier;;450.0;Pose d’un Velux CK01 GGL confort plus store DSL  SASU MAÇONNERIE CONCEPT;96 PDF SCI 4R PACA CONCIERGERIE .pdf
+97;22/04/2025;Leroy Merlin Cabriès;MME RIGUAULT;145.0;Pose d’un volet roulant solaire SSL MK04 solaire;97 PDF LM CAB MME RIGUAULT .pdf
+98;26/04/2025;Leroy Merlin La Valette;MR MAINE;195.0;Pose d’un volet roulant SML UK04 électrique  avec dépose e l’ancien;98 PDF LM T MR MAINE  .pdf
+99;28/04/2025;Leroy Merlin Toulon;MR CHAN;310.0;Pose de 2 volets roulants SSL MK04;99 PDF LM GR LIT MME CHAN  .pdf

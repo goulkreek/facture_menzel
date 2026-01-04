@@ -58,12 +58,38 @@
 - Ratio moyen : 1,49x
 - Les distances réelles sont en moyenne **49% plus longues** que les distances à vol d'oiseau
 
+## Ce qui a été fait (session 3)
+
+### 6. Calcul du Chiffre d'Affaires (TERMINÉ)
+- Script créé : `extract_ca.py`
+- Extraction des montants depuis les factures PDF
+- CSV généré : `chiffre_affaires.csv`
+
+### Résultat : CHIFFRE D'AFFAIRES 2025
+
+| Métrique | Montant |
+|----------|---------|
+| **TOTAL HT** | **338 486,00 €** |
+| Total TVA | 12 940,65 € |
+| **TOTAL TTC** | **351 426,65 €** |
+
+### Répartition par type :
+- **Autoliquidation** (sous-traitance Leroy Merlin, etc.) : 191 factures = **127 981 € HT**
+- **Particuliers** (avec TVA) : 115 factures = **210 505 € HT** / 223 446 € TTC
+
+### Statistiques :
+- Factures traitées : 306/315 (96,8%)
+- Facture min : 75 € | Facture max : 16 530 €
+- Moyenne par facture : 1 106 €
+
 ## Fichiers créés
 - `extract_distances.py` - Extraction initiale (distances vol d'oiseau)
 - `trajets_devis.csv` - CSV avec distances à vol d'oiseau
 - `add_real_distances.py` - Ajout des distances routières via Google Maps API
 - `trajets_devis_complet.csv` - **CSV final avec distances réelles**
 - `distances_cache.json` - Cache des distances (379 adresses)
+- `extract_ca.py` - Extraction du chiffre d'affaires
+- `chiffre_affaires.csv` - **CSV des factures avec montants**
 - `SESSION_NOTES.md` - Notes de session
 
 ## Adresse du siège (pour référence)
