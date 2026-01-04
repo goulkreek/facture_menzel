@@ -1,0 +1,417 @@
+numero_devis;date;client;adresse_depart;adresse_destination;code_postal;ville;distance_km;distance_km_ar
+1;02/01/2025;Mme Ambrosiano;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;15 Chemin de la Bedoule, 13240 SEPTEMES LES VALLONS;13240;SEPTEMES LES VALLONS;39,4;78,8
+2;02/01/2024;Mme Garcin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;27 IMPASSE Bessorti, 83500 LA SEYNE SUR MER;83500;LA SEYNE SUR MER;71,0;142,0
+3;03/01/2025;Mr Dubrou;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;178 Avenue des Chartreux, 13004 MARSEILLE;13004;MARSEILLE;31,4;62,8
+4;03/01/2025;Summer Hotel;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;49 Rue Gioffredo, 06000 NICE;06000;NICE;134,6;269,2
+5;04/01/2025;Mr Moreno;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;460 Chemin d Antonelle, 13090 AIX EN PROVENCE;13090;AIX EN PROVENCE;33,1;66,2
+8;10/01/2024;CGL INVEST;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;16 Chemin de St Jaquet, 13720 LA BOUILLADISSE;13720;LA BOUILLADISSE;24,1;48,2
+9;10/01/2025;Mme Rochez;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;82 Traverse Rompe Cuou, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+10;12/01/2025;Mr Salicis;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;13 Bis rue de Lorraine, 83160 LA VALETTE;83160;LA VALETTE;19,6;39,2
+11;12/01/2025;Mr Martin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;14 Rue Marceau, 83170 Tourves;83170;Tourves;27,7;55,4
+12;13/01/2025;Mr Ferrigno;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1allée du petit Gour, 13500 MARTIGUES;13500;MARTIGUES;61,8;123,6
+13;13/01/2025;Mr Ferraro;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;220 Rue du 8 Mai, 83110 SANARY;83110;SANARY;9,2;18,4
+14;13/01/2025;Mr Ferraro;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;220 Rue du 8 Mai, 83110 SANARY;83110;SANARY;9,2;18,4
+16;15/01/2025;Mr Teisseire;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;24 Rue Augustin, 13006 MARSEILLE;13006;MARSEILLE;32,0;64,0
+19;17/01/2025;Mme Rambeloson;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;10 Boulevard Auguste compte, 13010 MARSEILLE;13010;MARSEILLE;29,1;58,2
+20;24/01/2024;Mme Poli;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;22 Chemin des sables jaunes, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+20;18/01/2025;Mr Perron;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;22 Chemin des sables jaunes, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+22;21/01/2025;Mme Angles;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Rue de Nice, 13790 PEYNIER;13790;PEYNIER;35,1;70,2
+24;23/01/2024;Villa Provence;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;19 Rue des Convalescents, 13001 MARSEILLE;13001;MARSEILLE;33,1;66,2
+27;25/01/2025;Mr Lafon;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;789 Rte de Rocbaron, 83390 PUJET VILLE;83390;PUJET VILLE;44,6;89,2
+28;25/01/2025;Mr Antibi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;75 Avenue Noel Verlaque, 83500 LA SEYNE SUR MER;83500;LA SEYNE SUR MER;71,0;142,0
+29;27/01/2025;Mr Martin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;24 Allee Jules Raimu, 13500 MARSEILLE;13500;MARSEILLE;61,8;123,6
+30;27/01/2025;Mr Virasoivit;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;21 Rue de la Paix, 13100 AIX EN PROVENCE;13100;AIX EN PROVENCE;44,6;89,2
+31;28/01/2025;Mr Sombre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;200 Boulevard de la Valbarelle, 13011 MARSEILLE;13011;MARSEILLE;26,9;53,8
+33;30/01/2025;Mr Ruiz;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 B Avenue Manon, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+34;30/01/2025;Mme Vidal;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;222 Rue Victor Thouron, 83000 TOULON;83000;TOULON;16,1;32,2
+35;30/01/2025;Mr Milesi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;15 Rue des Huguenots, 83670 TAVERNES;83670;TAVERNES;42,8;85,6
+36;31/01/2025;Mr Lefevre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;26 Chemin du Vallon des Fourches, 13500 MARTIGUES;13500;MARTIGUES;61,8;123,6
+38;01/02/2025;Mr Baudu;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;431 B Docteur Amourette, 83000 TOULON;83000;TOULON;16,1;32,2
+39;01/02/2024;Mr Imbert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Route de Courroux, 13680 LANCON DE PROVENCE;13680;LANCON DE PROVENCE;44,3;88,6
+40;01/02/2025;Mr Verdaux;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;700 Avenue Auguste Renoir, 83500 LA SEYNE SUR MER;83500;LA SEYNE SUR MER;71,0;142,0
+41;03/02/2024;Mr Brasseur;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;99 Italo Ciambellotti, 83160 LA VALETTE DU VAR;83160;LA VALETTE DU VAR;19,6;39,2
+42;03/02/2024;Mr Piras;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Allée des porte de la mer, 13117 MARTIGUES;13117;MARTIGUES;22,1;44,2
+43;04/02/2025;Mr Philip;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;31Boulevard Henrie Fabre, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+44;04/02/2024;Mr Daubet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;23 Boulevard Boisson, 13004 MARSEILLE;13004;MARSEILLE;31,4;62,8
+45;04/02/2025;Mme Alibert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;26 Avenue Frederic Mistral, 83640 ST ZACHARIE;83640;ST ZACHARIE;15,6;31,2
+46;04/02/2025;Mme Alibert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;26 Avenue Frederic Mistral, 83640 ST ZACHARIE;83640;ST ZACHARIE;15,6;31,2
+48;04/02/2025;Mme Alibert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;26 Avenue Frederic Mistral, 83640 ST ZACHARIE;83640;ST ZACHARIE;15,6;31,2
+49;04/02/2025;Mr Raggiri;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Impasse des Negrel, 13720 LA BOUILLADISSE;13720;LA BOUILLADISSE;24,1;48,2
+50;04/02/2025;Mr Florac;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;291 Avenue des Arcoules, 84300 CAVAILLON;84300;CAVAILLON;95,4;190,8
+51;05/02/2025;Mme Castanheira;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;30 Avenue Marie Balajat, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+52;06/02/2025;Mr Majhoudi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Rue Clovis Hugues, 13127 VITROLLES;13127;VITROLLES;65,8;131,6
+53;07/02/2025;Mr Pascal;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;16 Rue des Crottes, 13011 MARSEILLE;13011;MARSEILLE;26,9;53,8
+56;08/02/2025;Mr Carrao;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;20 Boulevard Pardigon, 13004 MARSEILLE;13004;MARSEILLE;31,4;62,8
+57;10/02/2025;Mme Dye;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;435 Chemin d’égailles, 13090 AIX EN PROVENCE;13090;AIX EN PROVENCE;33,1;66,2
+58;11/02/2025;Mme Adjarian;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Boulevard des Fauvettes, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+59;11/02/2025;Mr Gregoire;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;286 Chemin des Salins, 83390 ST TROPEZ;83390;ST TROPEZ;44,6;89,2
+60;12/02/2025;Mr Roig;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;922 Avenue Fernand Gassion, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+61;12/02/2025;Mr Roig;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;922 Avenue Fernand Gassion, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+62;13/02/2025;Mr Peyronel;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;134 Traverse de la Penne, 13011 Saint Menet;13011;Saint Menet;26,9;53,8
+63;31/01/2025;Mr Lefevre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;26 Chemin du Vallon des Fourches, 13500 MARTIGUES;13500;MARTIGUES;61,8;123,6
+65;13/02/2025;Mme Barbier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;82 Lotissement de la Chesnaie, 83250 LA LONDES;83250;LA LONDES;41,9;83,8
+68;15/02/2025;Mr Ruffino;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;6 Allée des Trones, 13014 MARSEILLE;13014;MARSEILLE;33,8;67,6
+71;17/02/2025;Mme Voisin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Traverse Amédée Pierre, 13016 MARSEILLE;13016;MARSEILLE;39,8;79,6
+72;17/02/2024;Mme Ginoux;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Chemin du Coulet, 13260 CASSIS;13260;CASSIS;59,2;118,4
+73;N/A;Hotel Escale Oceania;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 La Canebiere, 13001 MARSEILLE;13001;MARSEILLE;33,1;66,2
+74;18/02/2025;Mr Tosello;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;356 Chemin Aimé Genoud, 83500 LA SEYNE SUR MER;83500;LA SEYNE SUR MER;71,0;142,0
+75;18/02/2025;Mme Bisbal;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;9 Rue Montévideo, 13006 MARSEILLE;13006;MARSEILLE;32,0;64,0
+76;19/02/2025;Mr Kremer;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;25 Rue de L’hôtel, 13270 FOS SUR MER;13270;FOS SUR MER;29,1;58,2
+78;20/02/2025;Mr Wagner;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;3 Impasse de la Salette, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+79;21/02/2025;Mr Moulin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1269 Chemin départementale 15, 13610 LE PUY SAINTE REPARADE;13610;LE PUY SAINTE REPARADE;26,8;53,6
+80;22/02/2025;Mr Minnaert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Allée des Fauvettes, 13710 FUVEAU;13710;FUVEAU;50,9;101,8
+82;24/02/2025;Mme Van Gaver;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Rue des Boucheries, 83330 LE CAS;83330;LE CAS;28,6;57,2
+83;24/02/2025;Mr Wagner;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;264 Avenue de la Corniche, 83110 SANARY;83110;SANARY;9,2;18,4
+84;24/02/2025;Mr Wagner;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;264 Avenue de la Corniche, 83110 SANARY;83110;SANARY;9,2;18,4
+86;25/02/2025;Mr Castanheira;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;30 Avenue Marie Balajat, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+87;26/02/2025;Mr Elaloua;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;17 Impasse terre Isnarde, 13770 VENELLES;13770;VENELLES;29,1;58,2
+88;27/02/2025;Mr Mery ‹;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;39 B Chemin des Cremades, 13580 LA FARE LES OLIVIERS;13580;LA FARE LES OLIVIERS;38,4;76,8
+89;28/02/2025;Mme Schaufflelberger;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;439 Boulevard Bois Maurin, 83150 BANDOL;83150;BANDOL;2,5;5,0
+90;28/02/2025;Mr Claret;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Allée Claude Debussy, 13110 PORT DE BOUC;13110;PORT DE BOUC;44,6;89,2
+91;03/02/2025;Mr Bancel;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;21 Boulevard des Oliviers, 13730 ST VICTORET;13730;ST VICTORET;29,8;59,6
+92;04/02/2025;Mr Mercier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;6 Rue Mozart, 13960 SAUSSET LES PINS;13960;SAUSSET LES PINS;43,5;87,0
+92;04/02/2025;Mme Gantou;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;27 Rue Sainte, 13001 MARSEILLE;13001;MARSEILLE;33,1;66,2
+94;04/02/2025;Mme Pellassy;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;249 Impasse de l’olivier, 83230 BORMES LES MIMOSAS;83230;BORMES LES MIMOSAS;39,3;78,6
+95;04/02/2025;Mr Majhoudi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Rue Clovis Hugues, 13127 VITROLLES;13127;VITROLLES;65,8;131,6
+96;05/03/2025;Mme Constance de la Roque;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;390 Rue Ernest Renan, 83000 TOULON;83000;TOULON;16,1;32,2
+97;06/03/2025;Mr Comet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Rue Amedeo Modigliani, 13180 GIGNAC LA NERTHE;13180;GIGNAC LA NERTHE;46,3;92,6
+98;06/03/2024;Mr Navarro;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;690 Chemin de Petegoux, 83210 BELGENTIER;83210;BELGENTIER;28,9;57,8
+99;07/03/2025;Mme Satangelo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Avenue du Prado, 83110 SANARY;83110;SANARY;9,2;18,4
+100;07/03/2025;Mr Saint Michel;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Avenue du Prado, 83110 SANARY;83110;SANARY;9,2;18,4
+101;08/03/2025;Mr Virasoivit;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Rue de la paix, 13100 AIX EN PROVENCE;13100;AIX EN PROVENCE;44,6;89,2
+105;10/03/2025;Mr Rocchia;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;80 Avenue de Lattre Tassigny, 13090 AIX EN PROVENCE;13090;AIX EN PROVENCE;33,1;66,2
+106;11/03/2025;Mr Gagno;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;80 Allée des acacias, 83260 LA CRAU;83260;LA CRAU;40,3;80,6
+107;11/03/2025;Mme Moisset;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Hammau de la plage, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+108;12/03/2025;Mr Marois;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;15 Avenue des Grillons, 83430 ST MANDRIER;83430;ST MANDRIER;26,4;52,8
+109;12/03/2025;Paca conciergeire;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Bis Boulevard Anatole France, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+110;13/03/2025;Mr Mora;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Impasse de la Marotte, 13380 Plan de Cuques;13380;Plan de Cuques;22,8;45,6
+111;14/03/2025;Mr Noiret;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;134 Monté des sources, 13390 AURIOL;13390;AURIOL;25,3;50,6
+112;17/03/2025;Mme Jourdan;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;187 Avenue Antoine Mallet, 13114 PUYLOUBIER;13114;PUYLOUBIER;20,4;40,8
+113;18/03/2025;Mr Aubert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;95 Avenue Jean Monnet, 13090 AIX EN PROVENCE;13090;AIX EN PROVENCE;33,1;66,2
+114;18/03/0205;Mr Robert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;17 Rue Armand Sauvat, 83500 LA SEYNE SUR MER;83500;LA SEYNE SUR MER;71,0;142,0
+115;19/03/2025;Mr Guesmi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;166 Chelin de Bourellys, 13240 SEPTEMES LES VALLON;13240;SEPTEMES LES VALLON;39,4;78,8
+117;20/03/2025;Mme Jahiel;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;14 Boulevard Hugues, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+119;15/03/2025;SCI MARIE MARIE;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Residence Provence Village, 83270 ST CYR SUR MER;83270;ST CYR SUR MER;33,0;66,0
+120;22/03/2025;Mr Davalle;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;285 Rue des Forbin, 84530 VILLELAURE;84530;VILLELAURE;90,0;180,0
+121;12/03/2025;Paca conciergeire;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Bis Boulevard Anatole France, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+123;24/03/2025;Mr Pufal;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;113 Rue du Dragon, 13006 MARSEILLE;13006;MARSEILLE;32,0;64,0
+124;25/03/2025;Mr Hamour;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;14 Rue Felix Gras, 13127 VITROLLES;13127;VITROLLES;65,8;131,6
+125;26/03/2025;Mme Robert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;7 Avenue des Tilleuls, 13380 PLAN DE CUQUES;13380;PLAN DE CUQUES;22,8;45,6
+126;26/03/2024;Mr Garcia;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Rue Curry, 83130 LA GARDE;83130;LA GARDE;22,0;44,0
+127;27/03/2025;Mr Vitrac;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;30 Allée de Craponne, 13330 PELISSANE;13330;PELISSANE;60,8;121,6
+128;27/03/2025;Mr Allaud;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;9 Rue de la Colombiere, 13109 SIMIANE;13109;SIMIANE;20,3;40,6
+129;28/03/2025;Mr Roure;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;20 Avenue Joseph Crossetto, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+131;28/03/2025;Mr Pufal;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Impasse du Vallon, 13260 CASSIS;13260;CASSIS;59,2;118,4
+132;29/03/2025;Mr Bouttin Le Neindre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 Avenue des Amandiers, 13790 PEYNIER;13790;PEYNIER;35,1;70,2
+133;29/03/2025;Mr Ros;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;240 Impasse des Amandiers, 83260 LA CRAU;83260;LA CRAU;40,3;80,6
+135;31/03/2025;Mr Fraisse;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Rue Scudery, 13007 MARSEILLE;13007;MARSEILLE;32,9;65,8
+136;01/04/2025;Mme Riguault;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Chemin des Sophoras, 13120 GARDANNE;13120;GARDANNE;31,2;62,4
+138;02/04/2025;Mme Chan;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;3 Rue du Sergent Chef, 13127 VITROLLES;13127;VITROLLES;65,8;131,6
+139;02/04/2025;Mr Basset;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4173 Route de giens, 83400 HYERES;83400;HYERES;32,1;64,2
+142;04/04/2025;Mr Tarentino;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;55 Rue des Myosotis, 13130 GARDANNE;13130;GARDANNE;54,2;108,4
+143;06/04/2025;Mme Chevalier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;124 Rue Marvivaux, 83150 BANDOL;83150;BANDOL;2,5;5,0
+144;05/04/2025;Mr Maine;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;76 Rue Blanc, 83100 TOULON;83100;TOULON;16,1;32,2
+145;05/04/2025;Mr Rocchia;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;80 Avenue de lettre tassignny, 13090 AIX EN PROVENCE;13090;AIX EN PROVENCE;33,1;66,2
+146;07/04/2025;Mme Largement;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;11 Rue des Jasses, 13510 EGUILLES;13510;EGUILLES;42,0;84,0
+147;07/04/2025;Mr Baudot;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;7 Bis Theophile Paulet, 13600 CEYRESTE;13600;CEYRESTE;11,2;22,4
+148;08/04/2025;Mr Alleq;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;510 Chemin de Langlade, 13400 AUBAGNE;13400;AUBAGNE;42,3;84,6
+150;09/04/2025;SCI LA PELLEGRINE;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1745 Chemin 64 C, 13100 LE THOLLONET;13100;LE THOLLONET;44,6;89,2
+151;09/04/2025;Mme Legal;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;50 impasse des mouettes, 13400 AUBAGNE;13400;AUBAGNE;42,3;84,6
+152;10/04/2025;Mr Sportouch;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Rue Montserrat, 83200 TOULON;83200;TOULON;30,9;61,8
+153;10/04/2025;Mr Thelot;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;101 Allee des Mésange, 83136 FORCALQUEIRET;83136;FORCALQUEIRET;16,1;32,2
+154;11/04/2025;Mr Zouneers;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1773 Chemin des Borrels, 83400 HYERES;83400;HYERES;32,1;64,2
+155;14/04/2025;Mme Basset;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4173 Route de Giens, 83400 HYERES;83400;HYERES;32,1;64,2
+156;12/04/2025;Mr Glasser;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;140 Rue Consolat, 13001 MARSEILLE;13001;MARSEILLE;33,1;66,2
+159;15/04/2025;Mr Levy;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;77 Boulevard des Cigales, 13011 MARSEILLE;13011;MARSEILLE;26,9;53,8
+161;16/04/2025;Mr Pin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Impasse Ecureil, 13220 CHATEAU NEUF LES;13220;CHATEAU NEUF LES;24,7;49,4
+162;16/04/2025;Mr Cacciarella;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;13 Rue des Marseillais, 13100 AIX EN PROVENCE;13100;AIX EN PROVENCE;44,6;89,2
+163;17/04/2025;Mr Zaffaroni;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;50 Boulevard Canlong, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+164;18/04/2025;Mme Diop;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;31 Rue Roger Salendro, 13500 MARTIGUES;13500;MARTIGUES;61,8;123,6
+165;18/04/2025;Mr Renoux;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;69 Avenue Jean Jaures, 83220 CARQUEIRANNE;83220;CARQUEIRANNE;39,6;79,2
+166;19/04/2025;Mr Brouillet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;54 Rue Henri Tomasi, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+167;21/04/2025;Mme Catalan;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;218 Rue Paradis, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+169;21/04/2025;Mr Gadoux;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 Rue Charles Gounod, 13127 VITROLLES;13127;VITROLLES;65,8;131,6
+170;22/04/2025;Mr Chavaux;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Boulevard Tricon, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+171;23/04/2025;Mr Aubert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;95 Avenue Jean Monnet, 13090 AIX EN PROVENCE;13090;AIX EN PROVENCE;33,1;66,2
+172;23/04/2025;Mr Legrand;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;140 Allée du petit Bois, 83250 LA LONDES;83250;LA LONDES;41,9;83,8
+173;23/04/2025;Mr Legrand;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;140 Allée du petit Bois, 83250 LA LONDES;83250;LA LONDES;41,9;83,8
+174;24/04/2025;Mr Ceaux;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;3 Rue Grande Fusterie, 84000 AVIGNON;84000;AVIGNON;113,6;227,2
+177;26/04/2025;Mme Paganucci;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Rue Rassart, 13390 AURIOL;13390;AURIOL;25,3;50,6
+179;28/04/2025;Mr Racine;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;6 Impasse du rouge gorge, 13490 JOUQUES;13490;JOUQUES;20,8;41,6
+180;29/04/2025;Mr Rigaud;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;100 Avenue de la Panouse, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+180;03/04/2025;Mr Saliou;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Impasse Lariano, 13960 SAUSSET LES PINS;13960;SAUSSET LES PINS;43,5;87,0
+182;30/04/2025;Mr Griffe;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;522 Rue Henri Pardigon, 83560 VINON SUR VERDON;83560;VINON SUR VERDON;26,5;53,0
+183;01/05/2025;Mme Guy;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;20 Traverse de la Sablière, 13001 MARSEILLE;13001;MARSEILLE;33,1;66,2
+185;02/05/2025;Mr Joedicke;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;21 Square des Fuchsias, 13580 LA FARE LES OLIVIERS;13580;LA FARE LES OLIVIERS;38,4;76,8
+186;02/05/2025;Mr Lombardo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;225 Avenue Alain le Leap, 83220 LE PRADET;83220;LE PRADET;39,6;79,2
+187;03/05/2025;Mme DE Tournade;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;27 Boulevard du Cabot, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+188;03/05/2025;Mr Dumont;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;96 Chemin du Jas de la Claire, 83330 LE BRULAT DU CAS;83330;LE BRULAT DU CAS;28,6;57,2
+191;12/05/2025;Mme Loisel;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Rue des Rempart, 13790 PEYNIER;13790;PEYNIER;35,1;70,2
+192;05/05/2025;Mr Kadlec David;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 Impasse des Colibris, 13820 ENSUES LA REDONNE;13820;ENSUES LA REDONNE;24,7;49,4
+193;06/05/2025;Mme Masson;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Traverse du lion, 13016 MARSEILLE;13016;MARSEILLE;39,8;79,6
+194;06/05/2025;Mr Briano;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;641 Avenue de Claret, 83000 TOULON;83000;TOULON;16,1;32,2
+195;07/05/2025;Mr Fabiani;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;49 Impasse Saturan, 13005 MARSEILLE;13005;MARSEILLE;31,0;62,0
+196;09/05/2025;Mr Giannetti;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1420 Chemin de Granet, 13090 AIX EN PROVENCE;13090;AIX EN PROVENCE;33,1;66,2
+196;08/05/2024;Mme Giovanetti;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;62 Rue Liandier, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+198;10/05/2025;Mr Aubran;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;285 Rte du Plan D’aups, 83640 ST ZACHARIE;83640;ST ZACHARIE;15,6;31,2
+199;12/05/2025;Mr Peslouan;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Chemin des 4 familles, 13190 ALLAUCH;13190;ALLAUCH;18,8;37,6
+201;13/05/2025;EMC MENUISERIE;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;15 Rue Levat, 13003 MARSEILLE;13003;MARSEILLE;33,0;66,0
+202;13/05/2025;Mr Guillem;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Chemin des Cadierien, 83270 ST CYR SUR MER;83270;ST CYR SUR MER;33,0;66,0
+203;14/05/2025;Mr Dupuy;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1135 Chemin de Granet, 13090 AIX EN PROVENCE;13090;AIX EN PROVENCE;33,1;66,2
+204;15/05/2025;Mr Mirlocca;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;602 Bis Avenue Etienne Cucca, 13190 ALLAUCH;13190;ALLAUCH;18,8;37,6
+205;15/05/2025;Mme Septembre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;480 Chemin de Fumeou, 83160 LA VALETTE DU VAR;83160;LA VALETTE DU VAR;19,6;39,2
+206;15/05/2025;Mme Septembre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;480 Chemin de Fumeou, 83160 LA VALETTE DU VAR;83160;LA VALETTE DU VAR;19,6;39,2
+207;16/05/2025;SCI MONT CRISTO;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;20 Chemin Batterie des Lyon, 13007 MARSEILLE;13007;MARSEILLE;32,9;65,8
+208;16/05/2025;SCI MONT CRISTO;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;20 Chemin Batterie des Lyon, 13007 MARSEILLE;13007;MARSEILLE;32,9;65,8
+209;17/05/2025;Mr Minnaert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Allée des Fauvettes, 13710 FUVEAU;13710;FUVEAU;50,9;101,8
+211;19/05/2025;Mr De Coutard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;247 Rue Ernest Renan, 83000 TOULON;83000;TOULON;16,1;32,2
+214;19/05/2025;Mme Idiard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Bastide de St Jean, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+214;12/06/2025;Mr Cevher;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;890 Chemin de la Canolle, 83110 SANARY;83110;SANARY;9,2;18,4
+214;12/06/2025;Mme Coutard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;68 Traverse de la Coutaude, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+215;19/05/2025;Mme Degremont;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;24 Chemin de Bellevue, 13015 MARSEILLE;13015;MARSEILLE;36,9;73,8
+216;19/05/2025;Mme Spanski;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;54 Allée des Laurier Rose, 83160 LA VALETTE;83160;LA VALETTE;19,6;39,2
+217;20/05/2025;Mme Berbezier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;35 Avenue des Colgates, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+218;20/05/2025;Mme Sicardi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Monté du Zouave, 13360 ROQUEVAIRE;13360;ROQUEVAIRE;43,0;86,0
+219;21/05/2025;Mme Jourdan;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Rue Goyrand, 13110 AIX EN PROVENCE;13110;AIX EN PROVENCE;44,6;89,2
+220;22/05/2025;Mr Galli;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;26 Impasse Trollat, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+221;23/05/2025;Mr Lugari;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;626 Chemin du Vallon de l’amandier, 13190 ALLAUCH;13190;ALLAUCH;18,8;37,6
+222;24/05/2025;Mme Maroni;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;11 Avenue Georges Carnus, 13700 MARIGNANE;13700;MARIGNANE;38,5;77,0
+225;27/05/2025;MH CONSTRUTION;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;143 Rye Felix Pyat, 13003 MARSEILLE;13003;MARSEILLE;33,0;66,0
+226;27/05/2025;Mr Wagner;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Rue Francois Croce, 83500 LA SEYNE SUR MER;83500;LA SEYNE SUR MER;71,0;142,0
+228;29/05/2025;Mr Feki;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;42 Rue Voltaire, 84120 PERTUIS;84120;PERTUIS;76,6;153,2
+229;29/05/2025;Mme Anger;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;528 Chemin du Plateau, 83470 SAINT MAXIMIN;83470;SAINT MAXIMIN;24,1;48,2
+231;29/05/2025;Mr Feki;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;42 Rue Voltaire, 84120 PERTUIS;84120;PERTUIS;76,6;153,2
+232;02/06/2025;Mr Lombardo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;54 Rte de St Zacharie, 13530 TRETS;13530;TRETS;44,0;88,0
+233;03/06/2025;Mr Bigare;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;29 A Rue Doran, 13004 MARSEILLE;13004;MARSEILLE;31,4;62,8
+234;04/06/2025;Mr Finello;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;98 Boulevard Camille Flamarion, 13004 MARSEILLE;13004;MARSEILLE;31,4;62,8
+235;07/06/2025;Mr Geisse;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 impasse Henri Evrard, 13180 GIGNAC LA NERTHE;13180;GIGNAC LA NERTHE;46,3;92,6
+236;09/06/2025;Mr Iscoto;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Rue de L invent, 83240 CABRIERES D AIGUES;83240;CABRIERES D AIGUES;57,8;115,6
+237;09/06/2025;Mr Blanc;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;74 Allée des Genets, 13124 PEYPIN;13124;PEYPIN;42,7;85,4
+239;11/06/2025;Mme Yetou;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Rue d ‘alexandrie, 13015 MARSEILLE;13015;MARSEILLE;36,9;73,8
+240;12/06/2024;Mr Charrier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Rue Casile, 13016 MARSEILLE;13016;MARSEILLE;39,8;79,6
+245;20/06/2025;Mr Merheb;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;854 Avenue de la libération, 83160 LA VALETTE;83160;LA VALETTE;19,6;39,2
+246;23/06/2025;Mr Pasquelin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;25 Rue Georges, 13800 ISTRES;13800;ISTRES;72,1;144,2
+247;23/06/2025;Mr De Coutard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;247 Rue Ernest Renan, 83000 TOULON;83000;TOULON;16,1;32,2
+248;23/06/2025;Mr Coutard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;68 Traverse de la Courtaude, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+249;23/06/2025;Mr Elfaouzi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Impasse des Baux, 13010 MARSEILLE;13010;MARSEILLE;29,1;58,2
+250;24/06/2025;Mr Markovic;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;299 Rue de Lyon, 13015 MARSEILLE;13015;MARSEILLE;36,9;73,8
+251;25/06/2025;Mme Youssouf;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Chemin de la Sartan, 13013 MARSEILLE;13013;MARSEILLE;30,9;61,8
+252;25/06/2025;Mr Charrier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Rue Casile, 13016 MARSEILLE;13016;MARSEILLE;39,8;79,6
+255;30/06/2025;Mr Boissonet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;BASTIDE DE ST JEAN, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+256;30/06/2025;Mr Boissonet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;BASTIDE DE ST JEAN, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+257;01/07/2025;Mr Roche;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;31 Rue de la république, 13710 FUVEAU;13710;FUVEAU;50,9;101,8
+258;01/07/2025;Mr Navarro;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;690 Chemin de Petegoux, 83210 BELGENTIER;83210;BELGENTIER;28,9;57,8
+259;03/07/2025;Mr Cavalie;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;51 Rue des fours, 83560 VINON SUR VERDON;83560;VINON SUR VERDON;26,5;53,0
+260;03/07/2025;Mr Dubois;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;337 Avenue Noel Verlaque, 83500 LA SEYNE;83500;LA SEYNE;71,0;142,0
+261;04/07/2025;Mme Valls;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;143 Boulevard Marius Bremond, 13015 MARSEILLE;13015;MARSEILLE;36,9;73,8
+265;07/07/2025;Mr De Laurentis;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;168 Boulevard Michelet, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+267;09/07/2025;Mme Lietaer;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;64 Avenue de l’Espagne, 13110 PORT DE BOUC;13110;PORT DE BOUC;44,6;89,2
+268;09/07/2025;Mr Bluteau;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;260 C Impasse Jean Olivier, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+269;09/07/2025;Mme Messanot;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;156 Chemin de la ferme, 84240 GRAMBOIS;84240;GRAMBOIS;65,6;131,2
+270;09/07/2025;Mr Theveneau;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;174 Avenue Jean Mermoz, 83110 SANARY;83110;SANARY;9,2;18,4
+272;11/07/2025;Mr Bossy;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1720 Rte du colonel Maurice Bellec, 13540 PUYRICARD;13540;PUYRICARD;38,5;77,0
+273;14/07/2025;Mr Bannour;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;717 Chemin de la Foret, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+274;14/07/2025;Mme Zobel;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Impasse Antoine Blaise, 13127 VITROLLES;13127;VITROLLES;65,8;131,6
+275;14/07/2025;Mr Albert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Route de la légion, 13400 AUBAGNE;13400;AUBAGNE;42,3;84,6
+276;15/07/2025;Mr Barotto;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;17 Acienne route de Marseille, 13500 MARTIGUES;13500;MARTIGUES;61,8;123,6
+278;16/07/2025;Mme Laurent Crippa;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;9 Boulevard du Belvedere, 13016 MARSEILLE;13016;MARSEILLE;39,8;79,6
+279;16/07/2025;Mr De Coutard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;247 Rue Ernest Renan, 83000 TOULON;83000;TOULON;16,1;32,2
+280;17/07/2025;Mme Carouge;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;3 La Cour Damour, 13127 VITROLLES;13127;VITROLLES;65,8;131,6
+281;17/07/2025;Mr Marie;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;11 Boulevard ders Amigas, 83100 TOULON;83100;TOULON;16,1;32,2
+282;18/07/2025;Mr Saupin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;50 Avenue du Littoral, 83150 BANDOL;83150;BANDOL;2,5;5,0
+283;18/07/2025;Mr Thiebaut;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;13 Rue Robert Dedieu, 13220 CHATEAUNEUF LES;13220;CHATEAUNEUF LES;24,7;49,4
+284;19/07/2025;Mr Berude;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;154 Avenue de L’ermitage, 83200 TOULON;83200;TOULON;30,9;61,8
+285;19/07/2025;Mme Soudeille;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;19 B Chemin Fernand Cammi, 13821 LA PENNE SUR HUVEAUNE;13821;LA PENNE SUR HUVEAUNE;26,5;53,0
+287;21/07/2025;Mme Gabay;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;436 Montée Leonce Chassaing, 13190 ALLAUCH;13190;ALLAUCH;18,8;37,6
+289;21/07/2025;Mme Camarena;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;73 A Rue de Bruys, 13005 MARSEILLE;13005;MARSEILLE;31,0;62,0
+290;22/07/2025;Mr Bottin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Avenue Ernest Marguery, 83270 SAINT CYR SUR MER;83270;SAINT CYR SUR MER;33,0;66,0
+291;22/07/2025;Mr Bottin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Avenue Ernest Marguery, 83270 SAINT CYR SUR MER;83270;SAINT CYR SUR MER;33,0;66,0
+292;22/07/2025;Mr Dolci;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;231 Boulevard Chave, 13004 MARSEILLE;13004;MARSEILLE;31,4;62,8
+293;23/07/2025;Mr Avarello;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;3 Rue de Rompecul, 83390 CUERS;83390;CUERS;44,6;89,2
+294;23/07/2024;Mr Cieters;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;26 Avenue de la cote bleu, 13960 SAUSSET LES PINS;13960;SAUSSET LES PINS;43,5;87,0
+295;24/07/2025;Mme Gay;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Chemin de l’oratoire, 13480 CABRIES;13480;CABRIES;10,5;21,0
+296;25/07/2025;Mr Leconte;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;436 Carraire de Vaumartin, 13650 MEYRARGUES;13650;MEYRARGUES;37,2;74,4
+299;26/07/2025;Mr Joly;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;765 Route de Marseille, 13080 AIX EN PROVENCE;13080;AIX EN PROVENCE;33,1;66,2
+300;29/07/2025;Mme Pignol;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;7 Boulevard de Loctroi, 13010 MARSEILLE;13010;MARSEILLE;29,1;58,2
+301;28/07/2025;Mme Jubelin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1155 Avenue de la Collegiale, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+303;28/07/2025;Mme Jubelin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1155 Avenue de la Collegiale, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+304;28/07/2025;Mr Delartigues;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;325 Chemin des Milles Ecus, 13190 ALLAUCH;13190;ALLAUCH;18,8;37,6
+305;30/07/2025;Mr Jangotchian;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;17 Boulevard des Fauvettes, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+306;30/07/2025;Mme Collombet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Grand Rue, 13880 VELAUX;13880;VELAUX;29,1;58,2
+307;30/07/2025;Mme Latil;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1500 Chemin du Plan, 84240 LA TOUR D AIGUES;84240;LA TOUR D AIGUES;65,6;131,2
+308;30/07/2025;Mr Bartolo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;172 Chemin du Clos, 13350 AURIOL;13350;AURIOL;29,1;58,2
+309;30/07/2025;Mr Gaultier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;29 Hammau des Pins, 83136 FORCALQUEIRET;83136;FORCALQUEIRET;16,1;32,2
+310;01/08/2025;Mme Riviere;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;37 Avenue Louis Malosse, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+311;02/08/2025;Mr Phillipe;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;76 Avenue Corot, 13013 MARSEILLE;13013;MARSEILLE;30,9;61,8
+313;04/08/2025;Mr Sanchez;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;14 Impasse de Cannes, 13010 MARSEILLE;13010;MARSEILLE;29,1;58,2
+314;04/08/2025;Mr Mengotti;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Chemin de l’homme Rouge, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+315;04/08/2025;Mr Navarro;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;690 Chemin de Petegoux, 83210 BELGENTIER;83210;BELGENTIER;28,9;57,8
+317;05/08/2025;Mr Laurent;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 impasse du Vallon, 13260 CASSIS;13260;CASSIS;59,2;118,4
+318;05/08/2025;Mme Hertz;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;161 Rue du Bailli de Suffren, 83220 LE PRADET;83220;LE PRADET;39,6;79,2
+319;05/08/2025;Mr Munoz;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Avenue des Amandiers, 13830 Roquefort la Bedoule;13830;Roquefort la Bedoule;20,4;40,8
+320;06/08/2025;Mr Iskandar;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;43 Traverse du Pin Sec, 13013 MARSEILLE;13013;MARSEILLE;30,9;61,8
+321;06/08/2025;Mr Dugo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;339 Chemin du Val Tendre, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+322;07/08/2025;Mme Guiot;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1381 Corniche de la Coudouliere, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+323;08/08/2025;Mr Verfalle;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1496 Avenue des Chabauds, 13220 BOUC BEL AIR;13220;BOUC BEL AIR;24,7;49,4
+324;09/08/2025;Mr Mengelle;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;99 Rue de Bonfante, 83200 TOULON;83200;TOULON;30,9;61,8
+325;13/08/2025;Mme Aquin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;866 Chemin de l’homme Rouge, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+326;12/08/2025;Mr Dugo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;339 Chemin du Val Tendre, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+327;18/08/2025;Mr Lieutaud;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Chemin de la grand Pièce, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+328;18/08/2025;Mr Steebergen;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1711 Chemin de St Pierre, 13400 AUBAGNE;13400;AUBAGNE;42,3;84,6
+329;18/08/2025;Mr Miesch;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;8 Impasse des Pivoines, 83330 LE BEAUSSET;83330;LE BEAUSSET;28,6;57,2
+330;18/08/2025;Mr Miesch;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;8 Impasse des Pivoines, 83330 LE BEAUSSET;83330;LE BEAUSSET;28,6;57,2
+331;19/08/2024;Mme Torossian;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;705 Chemin de la Repentance, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+332;19/08/2025;Mme Morvan;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;161 Rue du Bailli, 83220 LE PRADET;83220;LE PRADET;39,6;79,2
+333;19/08/2025;Mr Gourrierec;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;18 Plateau des Marguerites, 13013 MARSEILLE;13013;MARSEILLE;30,9;61,8
+334;19/08/2025;Mr Baron;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;490 Chemin des Severiers Nord, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+335;19/08/2025;Mr Gomez;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;49 Chemin du Bousquetier, 13190 ALLAUCH;13190;ALLAUCH;18,8;37,6
+336;20/08/2025;Mr Matois;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;136 Rue des Argeras, 13340 ROGNAC;13340;ROGNAC;38,2;76,4
+339;21/08/2025;Mr Dupuy;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1310 Rue Eugene Bertrand, 13770 VENELLES;13770;VENELLES;29,1;58,2
+340;22/08/2025;Mr Sultana;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;8 Rue Jean de l’hermier, 13700 MARIGNANE;13700;MARIGNANE;38,5;77,0
+341;23/08/2025;Mr Fabre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;81 Avenue des Goumiers, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+342;25/08/2025;Mr Delanglades;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;16 Chemin du Vallon de loriot, 13007 MARSEILLE;13007;MARSEILLE;32,9;65,8
+343;26/08/2025;Mr Blanc;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;191 Avenue de la Mediterranée, 13180 GIGNAC;13180;GIGNAC;46,3;92,6
+344;26/08/2025;Mr Blanc;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;191 Avenue de la Mediterranée, 13180 GIGNAC;13180;GIGNAC;46,3;92,6
+345;27/08/2025;Mr Charriere;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;50 Rue Puit Madame, 13700 MARIGNANE;13700;MARIGNANE;38,5;77,0
+346;27/08/2025;Mr Beau;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;25 Chemin des Chasseurs, 83150 BANDOL;83150;BANDOL;2,5;5,0
+347;28/08/2025;Mme Catzeddu;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;33 Bis Route Nationale, 13080 GARDANNE;13080;GARDANNE;33,1;66,2
+352;29/08/2025;Mme Petitpas;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;215 Allée des Colibris, 13400 AUBAGNE;13400;AUBAGNE;42,3;84,6
+353;30/08/2025;Mr Schmit;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;73 Traverse du Moulin a Vent, 13015 MARSEILLE;13015;MARSEILLE;36,9;73,8
+354;01/09/2025;Mr Valverde;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Place Gabriel Peri, 83640 ST ZACHARIE;83640;ST ZACHARIE;15,6;31,2
+355;02/09/2025;Mme Ravachol;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;38 Vallon des Mayans, 13015 MARSEILLE;13015;MARSEILLE;36,9;73,8
+358;04/09/2025;Mme Garcia Gustin;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;82 Rue du commandant Roland, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+359;04/09/2025;Mr Theillout;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Ancien chemin de toulon, 83110 SANRY;83110;SANRY;9,2;18,4
+360;05/09/2025;Mr Di Bartolo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;172 Chemin du Clos, 13350 AURIOL;13350;AURIOL;29,1;58,2
+361;06/09/2025;Mme Jadot;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;541 Rue du Gassin, 13105 MIMET;13105;MIMET;102,3;204,6
+362;06/09/2025;Mme Grouard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;124 Rue Arcole, 83110 SANARY;83110;SANARY;9,2;18,4
+363;08/09/2025;Mr villate;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;120 Chemin de Cros, 13510 EGUILLES;13510;EGUILLES;42,0;84,0
+364;09/09/2025;Mr Regine;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;13100 AIX EN PROVENCE;13100;AIX EN PROVENCE;44,6;89,2
+365;10/09/2025;Mr Bouvier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;9 Avenue de la Panouse, 13009 MARSEILLE;13009;MARSEILLE;26,5;53,0
+366;11/09/2025;Mr Lebhonomme;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;123 Avenue de St Charles, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+367;12/09/2025;Mr Antitomaso;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;181 Chemin de l’étourneau, 13104 ARLES;13104;ARLES;51,9;103,8
+368;12/09/2025;Mr Paumier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;93 Rue de la Mairie, 83390 PUGET VILLE;83390;PUGET VILLE;44,6;89,2
+369;13/09/2025;Mr Gavard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;15 Allée du plein midi, 13015 MARSEILLE;13015;MARSEILLE;36,9;73,8
+370;13/09/2025;Mr Delcomte;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;577 Allée des Giammini, 83160 LA VALETTE DU VAR;83160;LA VALETTE DU VAR;19,6;39,2
+371;15/09/2025;Mr Leynaud;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Avenue Marius Cheysson, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+372;12/09/2025;Mr Paumier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;93 Rue de la Mairie, 83390 PUGET VILLE;83390;PUGET VILLE;44,6;89,2
+373;15/09/2025;Mr Serpollet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;515 Avenue des Charmettes, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+373;15/09/2025;Mr Serpollet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;515 Avenue des Charmettes, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+375;16/09/2025;Mr Oubouzar;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;27 Boulevard Beranger, 13015 MARSEILLE;13015;MARSEILLE;36,9;73,8
+376;17/09/2025;Mr Ostacchini;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;9 Avenue Victor Gelu, 13360 ROQUEVAIRE;13360;ROQUEVAIRE;43,0;86,0
+380;17/09/2025;Mr Dugo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;339 Chemin du Val Tendre, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+381;17/09/2025;Mme Savoye;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;507 Chemin de la Perussonne, 13400 AUBAGNE;13400;AUBAGNE;42,3;84,6
+382;18/09/2025;Mr Chehrian;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;23 Avenue du Bousquetier, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+383;18/09/2025;Mr Bernard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;618 Chemin de la repentance, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+384;19/09/2025;Mme Torossian;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;705 Chemin de la Repentance, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+385;19/09/2025;Mr Poggio;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;916 Chemin du Roller, 83210 LA FARLEDE;83210;LA FARLEDE;28,9;57,8
+386;20/09/2025;Mr Feze;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;151 Chemin des Institutrice, 83200 TOULON;83200;TOULON;30,9;61,8
+387;20/09/2025;Mr Boyer;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;498 Route de la gare, 83110 SANARY SUR MER;83110;SANARY SUR MER;9,2;18,4
+388;22/09/2025;Mme Buiret;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;308 Rue Kleber, 83100 TOULON;83100;TOULON;16,1;32,2
+389;22/09/2025;Société Casaval;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Boulevard Cassini, 13004 MARSEILLE;13004;MARSEILLE;31,4;62,8
+390;22/09/2025;Société Casaval;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Boulevard Cassini, 13004 MARSEILLE;13004;MARSEILLE;31,4;62,8
+391;23/09/2025;Mr Gras;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Place General de Gaulle, 83210 SOLLIES PONT;83210;SOLLIES PONT;28,9;57,8
+392;23/09/2025;Mr Bigi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;195 Avenue Pierre Mendez, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+393;23/09/2025;Ferta Promotion;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;530 Chemin du Gari, 13270 FOS SUR MER;13270;FOS SUR MER;29,1;58,2
+394;24/09/2025;Mme Marquet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Rue du Maravenne, 83250 LA LONDES;83250;LA LONDES;41,9;83,8
+397;25/09/2025;Mr Bevert;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;40 Avenue de Bourgogne, 83200 TOULON;83200;TOULON;30,9;61,8
+399;26/09/2025;Mr Poyet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Rue Parmentier, 13120 GARDANNE;13120;GARDANNE;31,2;62,4
+402;29/09/2025;Mr Galigno;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;20 Rue Vendome, 13100 AIX EN PROVENCE;13100;AIX EN PROVENCE;44,6;89,2
+403;30/09/2025;Mr Sanchez;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;29 Chemin de la Tuilerie, 13112 LA DESTROUSSE;13112;LA DESTROUSSE;13,9;27,8
+404;30/09/2025;Mr Palazzo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;33 Traverse du Tonkin, 13010 MARSEILLE;13010;MARSEILLE;29,1;58,2
+405;01/10/2025;Mr Ribeiro;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;28 B Ancienne route de Marseille, 13500 MARSEILLE;13500;MARSEILLE;61,8;123,6
+406;02/10/2025;Mme Sawczyn;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;5 Rue Jeanne D’arc, 84120 PERTUIS;84120;PERTUIS;76,6;153,2
+408;03/10/2025;Mr Douai;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;17 Chemi des 4 Vents, 13800 ISTRES;13800;ISTRES;72,1;144,2
+409;04/10/2025;Mr Brunet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;118 Rue Saint Jean du Désert, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+410;06/10/2025;Mr Gallo;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;11 Traverse Brosseau, 13016 MARSEILLE;13016;MARSEILLE;39,8;79,6
+411;07/10/2025;Mr Chammougon;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 Monte de la belle France, 13015 MARSEILLE;13015;MARSEILLE;36,9;73,8
+412;07/10/2025;Mr Dryjard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;24 Rue Gaspard de Besse, 83130 BESSE SUR ISSOLE;83130;BESSE SUR ISSOLE;22,0;44,0
+413;08/10/2025;Mme Castagna;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;236 Rue Sabetier, 13170 LES PENNES MIRABAU;13170;LES PENNES MIRABAU;51,0;102,0
+415;09/10/2025;Mme Courtecuisse;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;33 Boulevard Boisson, 13004 MARSEILLE;13004;MARSEILLE;31,4;62,8
+416;09/10/2025;Mr Ferreire;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;309 Boulevard saint Marcel, 13011 MARSEILLE;13011;MARSEILLE;26,9;53,8
+417;09/10/2025;Mr Pommier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;153 Chemin Jacques Casanova, 83500 LA SEYNE SUR MER;83500;LA SEYNE SUR MER;71,0;142,0
+418;10/10/2025;Mme Faure;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;426 Boulevard George Clemenceau, 13300 SALON DE PROVENCE;13300;SALON DE PROVENCE;67,2;134,4
+426;13/10/2025;Mr Denis;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;19 Rue de la République, 83210 SOLLIES PONT;83210;SOLLIES PONT;28,9;57,8
+427;13/10/2025;Mr Bousquet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;32 Boulevard Bonne Brise, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+428;14/10/2025;Mr Loi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;28 Rue de la République, 13710 FUVEAU;13710;FUVEAU;50,9;101,8
+429;15/10/2025;Mme Goeury;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;639 Chemin du moulin, 83860 NANS LES PINS;83860;NANS LES PINS;22,7;45,4
+430;15/10/2025;Mme Hernandez;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Avenue Julien Belfort, 83500 LA SEYNE SUR MER;83500;LA SEYNE SUR MER;71,0;142,0
+431;16/10/2025;Mr Massock;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;37 Allée des Tamaris, 13130 BERRE L ETANG;13130;BERRE L ETANG;54,2;108,4
+432;18/10/2025;Mr Burie;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;24 Allée de la Maurelle, 13013 MARSEILLE;13013;MARSEILLE;30,9;61,8
+433;18/10/2025;Mr Difraia;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;255 Impasse de la Royante, 13400 AUBAGNE;13400;AUBAGNE;42,3;84,6
+436;18/10/2025;Mr Mas;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;80 Avenue du soleil Levant, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+437;18/10/2025;Mr Pichot;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;180 Allée du vieux Moulin, 83160 LA VALETTE;83160;LA VALETTE;19,6;39,2
+438;20/10/2025;Mme Montalbano;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;525 Chemin du Moulin, 13140 MIRAMAS;13140;MIRAMAS;42,2;84,4
+438;21/10/2025;Mr Maria;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Rte departementale 556, 13650 MEYRARGUES;13650;MEYRARGUES;37,2;74,4
+440;22/10/2025;Mr Darexy;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;55 Rue Pascal, 13005 MARSEILLE;13005;MARSEILLE;31,0;62,0
+441;22/10/2025;Mr Courtines;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;93 LES MAS DE LA CHESNAIS, 83250 LA LONDES;83250;LA LONDES;41,9;83,8
+442;23/10/2025;Mr Pastore;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;52 Placette des Bastidons, 83110 SANARY;83110;SANARY;9,2;18,4
+443;23/10/2025;Mr Werham;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;710 Chemin Du Oustaous, 13400 AUBAGNE;13400;AUBAGNE;42,3;84,6
+444;23/10/2025;Mme Rouselle;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;13 Boulevard Guizel, 13016 MARSEILLE;13016;MARSEILLE;39,8;79,6
+445;24/10/2025;Mr Riccozzi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Boulevard Rouvier, 13010 MARSEILLE;13010;MARSEILLE;29,1;58,2
+446;25/10/2025;Mr Bartolini;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;31 Avenue de la Rosiere, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+447;26/10/2025;Mr Delabie;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;20 Chemin Di Oustaou, 13127 VITROLLES;13127;VITROLLES;65,8;131,6
+448;27/10/2025;Mr Aupitre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;23 Chemin de l’union, 13720 LA BOUILLADISSE;13720;LA BOUILLADISSE;24,1;48,2
+449;27/10/2025;Mr Fouillaron;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 Rue de la République, 13129 ARLES;13129;ARLES;89,0;178,0
+450;28/10/2025;Mr Laurent;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;10 Boulevard Martin Fabre, 13010 MARSEILLE;13010;MARSEILLE;29,1;58,2
+451;28/10/2025;Mr Moreau;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;313 Avenue des Arbanais, 83400 HYERES;83400;HYERES;32,1;64,2
+452;29/10/2025;Mr Cheniguer;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;8 Traverse Tamatave, 13002 MARSEILLE;13002;MARSEILLE;33,7;67,4
+453;29/10/2025;Mr Le Vacher;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;114 Chemin de la Plaine Buisson, 83400 HYERES;83400;HYERES;32,1;64,2
+454;30/10/2025;Mr Lorenzini;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;3450 Chemin de Planestrel, 83136 MEOUNES;83136;MEOUNES;16,1;32,2
+456;01/11/2025;CENP;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;3300 Avenue JF Kennedy, 83140 SIX FOURS LES PLAGES;83140;SIX FOURS LES PLAGES;31,0;62,0
+458;01/11/2025;Mr Chouard;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;170 Route des Camions, 13011 MARSEILLE;13011;MARSEILLE;26,9;53,8
+459;03/11/2025;Mr Savre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;198 Rue Kleber, 84120 PERTUIS;84120;PERTUIS;76,6;153,2
+460;04/11/2025;Mr Baillon;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;418 Allée de la plage, 13920 ST MITRE LES RAMPARTS;13920;ST MITRE LES RAMPARTS;29,1;58,2
+461;05/11/2025;Mr Brun;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;34 Avenue Général Koeing, 13100 AIX EN PROVENCE;13100;AIX EN PROVENCE;44,6;89,2
+464;04/11/2025;AC CONSEIL;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;39 Rue Mouret, 13300 SALON;13300;SALON;67,2;134,4
+465;04/11/2025;Mme Abdellaoui;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;23 Rue des Ecoles, 83150 BANDOL;83150;BANDOL;2,5;5,0
+467;04/11/2025;Mr Danten Quenouille;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;201 Chemin du Beausset Vieux, 83330 LE BEAUSSET;83330;LE BEAUSSET;28,6;57,2
+468;05/11/2025;Mr Bensoussem;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Route de Berre, 13510 EGUILLES;13510;EGUILLES;42,0;84,0
+469;05/11/2025;Mr Coulon;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 Allée Hector Berlioz, 83136 GAREOULT;83136;GAREOULT;16,1;32,2
+470;06/11/2025;Mr Turbet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;101 Avenue Pierre Chevalier, 13012 MARSEILLE;13012;MARSEILLE;28,9;57,8
+471;06/11/2025;Mr Gabeto;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;999 Avenue Dei Reganeu, 83150 BANDOL;83150;BANDOL;2,5;5,0
+473;08/11/2025;Mr Milliet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;17 Monté de la Rotonde, 13007 MARSEILLE;13007;MARSEILLE;32,9;65,8
+474;08/11/2025;Mr Pasquet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Chemin de l’homme rouge, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+475;10/11/2025;Mme Armand Carine;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1028 Boulevard Paul Raphel, 13102 SAINT VICTORET;13102;SAINT VICTORET;44,6;89,2
+477;10/11/2025;Mr Gabeto;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;999 Avenu Dei Reganeu, 83150 BANDOL;83150;BANDOL;2,5;5,0
+478;10/11/2025;Mr Granier;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;16 Boulevard de Tholon, 13500 MARTIGUES;13500;MARTIGUES;61,8;123,6
+479;11/11/2025;Mr Paget;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;72 Traverse de la République, 83270 SAINT CYR SUR MER;83270;SAINT CYR SUR MER;33,0;66,0
+480;12/11/2025;Mr Bertoli;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;179 Impasse Cantebrune, 13360 ROQUEVAIRE;13360;ROQUEVAIRE;43,0;86,0
+481;12/11/2025;Mr Adeline;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Rue du Batailler, 83980 LE LAVANDOU;83980;LE LAVANDOU;41,4;82,8
+482;13/11/2025;Mr Bonhommet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;6 Rue des Ecrins, 13220 CHATEAU NEUF LES;13220;CHATEAU NEUF LES;24,7;49,4
+484;17/11/2025;Mr Pibaro;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;52 Impasse de la Gaudia, 13360 ROQUEVAIRE;13360;ROQUEVAIRE;43,0;86,0
+485;17/11/2025;Mr Garcia;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Rue Curry, 83130 LA GARDE;83130;LA GARDE;22,0;44,0
+486;17/11/2025;Mme Benarfa;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;225 Chemin de la Glycines, 13250 Saint Chamas;13250;Saint Chamas;35,1;70,2
+487;17/11/2025;Mme Benarfa;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;225 Chemin de la Glycines, 13250 Saint Chamas;13250;Saint Chamas;35,1;70,2
+488;17/11/2025;Mr Lecuyer;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Allée des Mimosas, 13600 LA CIOTAT;13600;LA CIOTAT;11,2;22,4
+489;18/11/2025;Maçonnerie Bouselsal;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;59 Rue Carnot, 83310 COGOLIN;83310;COGOLIN;43,8;87,6
+490;18/11/2025;Mr Milliet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;17 Monté de la Rotonde, 13007 MARSEILLE;13007;MARSEILLE;32,9;65,8
+491;20/11/2025;Mr Gourrierec;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Plateau des Marguerites, 13013 MARSEILLE;13013;MARSEILLE;30,9;61,8
+494;24/11/2025;Mr Nadal;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;62 Chemin des Sources, 13500 MARTIGUES;13500;MARTIGUES;61,8;123,6
+495;25/11/2025;Mr Reguig;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;29 Chemin de Saint Esteve, 13120 GARDANNE;13120;GARDANNE;31,2;62,4
+496;26/11/2025;Mr Bompieyre;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Rue du Chateau, 13960 SAUSSET;13960;SAUSSET;43,5;87,0
+497;28/11/2025;Mme Van Den Plas;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;Clinique vétérinaire, 13380 CALAS;13380;CALAS;22,8;45,6
+499;01/12/2025;Mr Mietz;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;12 Traverse de l’huveaune, 13390 AURIOL;13390;AURIOL;25,3;50,6
+500;01/12/2025;Mme Bidet;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;3 Rue Magenta, 13530 TRETZ;13530;TRETZ;44,0;88,0
+502;03/12/2025;Mr Roubaud;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;10 Plage de l’estaque, 13016 MARSEILLE;13016;MARSEILLE;39,8;79,6
+503;04/12/2025;Mme Thiebaut;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;318 Avenue d’aix, 13320 BOUC BEL AIR;13320;BOUC BEL AIR;18,4;36,8
+505;04/12/2025;Mr Dalle;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;748 Boulevard de la Marine, 83400 HYERES;83400;HYERES;32,1;64,2
+506;05/12/2025;Mr Chillemi;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;113 Rue de St Pierre, 13005 MARSEILLE;13005;MARSEILLE;31,0;62,0
+507;06/12/2025;Mme Vial;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;11 Rue des Alouettes, 13820 ENSUES;13820;ENSUES;24,7;49,4
+509;08/12/2025;Mr Redon;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1140 Route de la Calade, 13100 AIX EN PROVENCE;13100;AIX EN PROVENCE;44,6;89,2
+510;09/12/2025;Mr Le Pieres;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 Quai des Girondins, 13500 MARTIGUES;13500;MARTIGUES;61,8;123,6
+510;21/12/2024;Mme Rodrigue;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;389 Traverse de la Courtaude, 83140 SIX FOURS;83140;SIX FOURS;31,0;62,0
+511;10/12/2025;Mr Mazzoni;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 Rue de Lacepe, 13100 AIX EN PROVENCE;13100;AIX EN PROVENCE;44,6;89,2
+512;11/12/2025;Mr Godinho;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Boulevard St Antoine Ermite, 13230 PORT ST LOUIS DU RHONE;13230;PORT ST LOUIS DU RHONE;71,5;143,0
+513;12/12/2025;Mme Dypuy;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;18 Boulevard Chancel, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+514;13/12/2025;Mr Cherel;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;6 Impasse des Mouillas, 13008 MARSEILLE;13008;MARSEILLE;30,7;61,4
+516;15/12/2025;Mr Ghiha;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;226 Chemin de la Pelouque, 13016 MARSEILLE;13016;MARSEILLE;39,8;79,6
+517;15/12/2025;Mr Ferreri;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Rue Henri Angelini, 83160 LA VALETTE;83160;LA VALETTE;19,6;39,2
+518;16/12/2025;Mr Marietti;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2850 B Route de Pelissane, 13510 EGUILLES;13510;EGUILLES;42,0;84,0
+519;16/12/2025;Mr Chapelon;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;323 Avenue du Val D’azur, 83110 SANARY;83110;SANARY;9,2;18,4
+520;17/12/2025;Mr Boresio;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;4 Rue Jules Massenet, 13480 CABRIES;13480;CABRIES;10,5;21,0
+521;17/12/2025;Mr Defossez;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;9 Rue du Murier, 83000 TOULON;83000;TOULON;16,1;32,2
+522;18/12/2025;Mr Dufour;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;1 Chemin des Saliniers, 13250 ST CHAMAS;13250;ST CHAMAS;35,1;70,2
+523;19/12/2025;Mr Omiro;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;15 B Joseph Roubaud, 13380 Plan de Cuques;13380;Plan de Cuques;22,8;45,6
+524;22/12/2025;Mr Berge;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;9 Rue du Docteur Aurran, 83000 TOULON;83000;TOULON;16,1;32,2
+525;22/12/2025;Mr Cambon;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;32 Avenue Christophe Colomb, 13960 SAUSSET;13960;SAUSSET;43,5;87,0
+526;22/12/2025;Mr Lebihan;208 Chemin de la croix des signaux, 83740 La Cadière d'Azur;2 place de la Paix, 83470 Pourcieux;83470;Pourcieux;24,1;48,2
